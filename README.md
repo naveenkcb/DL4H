@@ -1,4 +1,6 @@
 # DL4H
+Patient Summaries Hallucination
+
 Project performed as part of CS 598 Deep Learning for Healthcare
 
 This is an effort to reproduce pieces of the original paper
