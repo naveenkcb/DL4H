@@ -1,0 +1,1197 @@
+0:
+
+Comment - 
+
+You were admitted with gastrointestinal bleeding. Procedures performed (EGD and sigmoidoscopy) did not identify a bleeding source. Your condition remained stable during the hospital stay, with no further bleeding episodes. Blood tests showed a stable red blood cell count. You were advised to avoid NSAIDs in the future due to bleeding risk. An elevated white blood cell count was noted but no infection was found. Antibiotics were given for 2 days and then stopped.
+
+You were admitted for gastrointestinal bleeding. Tests including EGD and sigmoidoscopy found no active source of bleeding, and you remained stable during your hospitalization. Your red blood cell count stayed steady. Antibiotics were started due to abnormal blood results but were stopped after no infection was found. You were advised not to take NSAIDs going forward.
+
+1:
+
+Comment - 
+
+You were admitted to the Surgical Oncology service after surgery. Your pain, blood pressure, breathing, blood glucose, and other vital signs were monitored closely. You were transitioned from IV to oral pain medications and encouraged to perform breathing exercises. You tolerated a regular diet and had stable urine output. Your incision was checked twice daily and no signs of infection were noted. You received blood thinners to prevent clots and were discharged when you were stable and independent with daily activities.
+
+You were admitted after surgery and monitored closely during your recovery. Pain was managed with oral and IV medications. Your breathing, blood pressure, and labs remained stable. You resumed eating a normal diet and your incision showed no signs of infection. Once you were comfortable, moving around on your own, and no longer needed IV support, you were discharged home with instructions for continued recovery.
+
+
+2:
+
+Comment - 
+
+You were admitted due to bleeding from the site of a recent gastric polyp removal. This was treated with a repeat endoscopy, where clips and medication were applied to stop the bleeding. Your hemoglobin level was low on arrival and improved during your stay. You did not have further bleeding and were able to eat a regular diet before discharge. Your blood thinner (Xarelto) and aspirin were held and restarted before discharge. You will follow up with your primary care physician and the GI team in the coming weeks.
+
+You were admitted for gastrointestinal bleeding related to a recent polyp removal. Doctors performed another endoscopy to stop the bleeding using clips and medication. Your blood count was monitored and stabilized during the hospital stay. You restarted your blood thinner before going home. You were discharged in stable condition and asked to follow up with your primary care doctor soon, and with gastroenterology in a few months.
+
+
+3:
+
+Comment - 
+
+You were admitted due to vomiting coffee-ground material, which was concerning for bleeding in your upper gastrointestinal tract. Your blood counts remained stable during the hospital stay. An endoscopy showed a 3 cm mass at the junction of your esophagus and stomach with an ulcer, which was believed to be the source of bleeding. A biopsy was taken and results were pending at discharge. You were advised to avoid NSAIDs and alcohol. You were discharged on a medication to reduce stomach acid and will follow up for further testing and evaluation of the mass.
+
+You were admitted for upper GI bleeding after vomiting coffee-ground material. Testing showed a mass with an ulcer at the stomach-esophagus junction, likely the source of bleeding. Your blood remained stable and no further bleeding occurred. A biopsy was done and the results will help guide next steps. You were advised to avoid NSAIDs and alcohol while healing. Follow-up testing and appointments have been arranged.
+
+
+4:
+
+Comment - 
+
+You were admitted due to confusion related to a low sodium level. This was likely caused by diarrhea and drinking large amounts of water. Your sodium was corrected to normal levels within one day through fluid restriction. While hospitalized, an MRI showed a recent small stroke in the left occipital lobe. You were started on aspirin and atorvastatin to reduce your risk of future strokes. Your dose of Lasix was decreased, and your other medications were continued.
+
+You were admitted because of confusion caused by low sodium, likely due to diarrhea and drinking too much water. Your sodium improved with fluid restriction. A brain scan showed a small recent stroke. You were started on aspirin and a cholesterol medication to help prevent another one. Your water pill (Lasix) dose was lowered, and other home meds were continued.
+
+
+5:
+
+Comment - 
+
+You were admitted after having a seizure, which may have been related to alcohol withdrawal or low sodium levels. Your sodium was low on arrival and improved after IV fluids. Neurology was consulted and recommended follow-up with MRI and EEG as an outpatient. No seizure activity occurred while you were in the hospital. Your blood pressure was monitored, and your home medications were mostly continued, including your antidepressants. You were also monitored for alcohol withdrawal but did not require any medications for it. You will continue to follow up with your outpatient counselor.
+
+You were admitted after a seizure, possibly caused by alcohol withdrawal or low sodium. Your sodium level was low but improved after receiving IV fluids. You did not have any further seizures while in the hospital. The neurology team recommended outpatient brain imaging and a follow-up with a neurologist. You were monitored for withdrawal symptoms and remained stable. Your blood pressure and medications were managed during your stay, and your sodium stayed in a safe range. You’ll follow up with your counselor and primary care doctor after discharge.
+
+
+6:
+
+Comment - 
+
+You were admitted with nausea, vomiting, diarrhea, and dehydration. These symptoms were most likely due to viral gastroenteritis. You improved with IV fluids and nausea medication, and did not have further vomiting. Although stool testing was considered, it was not completed during your stay, and your diarrhea resolved. You also had shortness of breath on admission, likely related to missing chest treatments. This improved with your regular breathing medications. You were evaluated by a nutritionist who recommended Boost or Carnation supplements with meals.
+
+You were admitted because of nausea, vomiting, diarrhea, and needing more oxygen than usual. Your symptoms improved with fluids and medication. Testing showed no serious infection, and your diarrhea went away without needing a stool test. You were given oxygen and breathing treatments that helped your shortness of breath. A nutritionist suggested you take nutritional supplements like Boost or Carnation three times a day. You’ll continue your regular medications and follow up after discharge.
+
+
+7:
+
+Comment - 
+
+You were admitted with abdominal pain, nausea, vomiting, and diarrhea. After evaluation, your symptoms were thought to be due to a viral gastrointestinal infection, not a Crohn's flare. Stool studies, including for C. difficile, were negative. You were treated with IV fluids, bowel rest, nausea medication, and a small amount of pain medication. By the time of discharge, you were eating normally and no longer having symptoms. You were advised to continue small, frequent meals and follow up with your gastroenterologist. Your home medications were continued, and you were given a short course of pain medication as needed.
+
+You came to the hospital with stomach pain, nausea, and diarrhea. Your doctors believe this was most likely a stomach virus, not a flare-up of Crohn’s disease. You were treated with fluids and medications for nausea and pain. By the time you left, your symptoms had improved and you were eating normally again. You’ve been prescribed a small amount of pain medication, but try Tylenol or your regular stomach medication first. Follow up with your GI doctor and call them if your symptoms get worse.
+
+
+8:
+
+Comment - 
+
+You were admitted for worsening shortness of breath, which was likely due to a COPD exacerbation. Tests ruled out pneumonia and blood clots. You were treated with IV steroids, nebulizer treatments, and a short course of antibiotics. Your oxygen levels improved, and you were transitioned to oral steroids with a taper to continue after discharge. You were given a nicotine patch in the hospital and advised to stop smoking, as it prevents you from qualifying for home oxygen. You will continue your usual medications for blood pressure, diabetes, and other chronic conditions, and follow up with your primary care doctor.
+
+You came to the hospital because your breathing worsened. This was likely due to your COPD flaring up. You were treated with steroids, inhalers, and antibiotics. Your oxygen levels got better, but you still have low oxygen when moving around. Because you are still smoking, you are not eligible for oxygen at home. You were given a nicotine patch in the hospital and encouraged to quit smoking. You’ll go home with your usual medications and follow up with your doctor for continued care.
+
+
+9:
+
+Comment - 
+
+You were admitted for a fainting episode and were found to have a new heart rhythm condition called atrial flutter. You underwent a procedure called cardioversion to restore normal rhythm. After the procedure, your heart paused for five seconds and briefly slowed down, which may explain why you fainted before coming to the hospital. You were given a heart monitor to wear at home to track your rhythm and were started on a blood thinner called dabigatran to reduce the risk of blood clots. Further evaluation, including possible ablation or pacemaker, will be done depending on your results. Doctor thinks it is fine to drive 
+
+You came to the hospital after feeling faint, and tests showed you had a new abnormal heart rhythm called atrial flutter. You had a successful procedure to restore your normal heartbeat. After the procedure, your heart briefly paused, which may have caused your earlier fainting. You were started on a blood thinner to prevent clots, and you’ll wear a heart monitor at home to watch for any more rhythm problems. You were advised not to drive until your doctors complete this evaluation.
+
+
+10:
+
+Comment - 
+
+You were admitted for evaluation of diarrhea, weakness, and nutritional concerns. You were found to have vitamin B12 and vitamin D deficiencies, likely from poor intake. You received B12 by injection during your stay and were discharged on oral B12, vitamin D, and thiamine supplements. You had symptoms of nausea, vomiting, and watery diarrhea during the hospital stay, which were thought to be viral, and you improved with fluids and supportive care. You were noted to be underweight and received nutritional supplements, gaining weight during your admission. Physical therapy assessed you and recommended continued therapy after discharge. You were considered able to make your own medical decisions.
+
+You came to the hospital with diarrhea and weakness. Testing showed that you had low levels of vitamin B12 and vitamin D, likely due to not eating enough. You were treated with supplements and IV fluids, and your diarrhea improved over time. You gained weight while in the hospital and continued taking nutrition drinks. Physical therapy worked with you on walking and recommended continuing after you leave. You were seen by psychiatry and are able to make your own medical decisions. You’ll follow up as an outpatient to check on your recovery and vitamin levels.
+
+
+11:
+
+Comment - 
+
+You were admitted with signs of infection after having your gallbladder removed. A CT scan showed fluid in your abdomen, which was thought to be a bile leak. A drain was placed to remove the fluid, and a stent was inserted to help bile drain properly. You also had a procedure to open your bile duct using a balloon. Cultures showed a bacterial infection, and you were treated with 10 days of antibiotics. Your condition improved with treatment, and you were able to eat, walk, and care for yourself before discharge. You went home with instructions for drain care and follow-up.
+
+You came to the hospital with signs of infection after your gallbladder surgery. A scan showed fluid buildup in your abdomen, likely from a bile leak. You had a drain placed and a procedure to help your bile drain better. You were treated with antibiotics and began feeling better. You were able to eat, walk, and manage daily tasks before you left the hospital. You were sent home with care instructions for your drain and will follow up with your surgical team.
+
+
+12:
+
+Comment - 
+
+You were admitted with left leg swelling and pain, and imaging showed extensive blood clots in the veins of your left leg and pelvis. You were evaluated by vascular surgery and hematology. Blood thinner treatment with Eliquis was started to manage the clot. Further tests were done to check for underlying clotting disorders, and you will follow up with hematology after discharge. You were also counseled about reducing alcohol use. You were discharged with a blood thinner and pain medication, and follow-up appointments were arranged with your primary care doctor, hematology, and vascular surgery.
+
+You came to the hospital because of swelling and pain in your left leg. Scans found large blood clots in the veins in your pelvis and leg. You started treatment with a blood thinner called Eliquis to help prevent the clot from growing. You were seen by specialists and will have follow-up testing to check for possible inherited clotting conditions. You were also advised to cut down on alcohol use. You’ll continue blood thinner treatment at home and follow up with your doctors to monitor your recovery.
+
+
+13:
+
+Comment - 
+
+You were admitted to the hospital with new double vision. Imaging studies (CT and MRI) did not show signs of a stroke, but your eye specialists believe your symptoms may be due to a small ischemic event affecting the nerves that control your eye muscles. During your stay, your aspirin dose was increased to help prevent further events, and you were started on artificial tears to use four times a day. You were referred to a neuro-ophthalmologist and scheduled for an outpatient echocardiogram. You also had one episode of low blood sugar, and your insulin was stopped. You were advised to rest for a week before returning to work and to follow up with your doctor to re-evaluate your vision.
+
+You came to the hospital because of double vision. Scans did not show a stroke, but your doctors think it may be due to a small blood flow issue affecting your eye muscles. Your aspirin was increased to help prevent future problems, and eye drops were recommended. You had one low blood sugar episode but don’t have diabetes, so insulin was stopped. You’ll have a heart scan and follow up with an eye specialist after you leave the hospital. You were given a note to take a week off work and should follow up with your doctor soon.
+
+
+14:
+
+Comment - 
+
+You were admitted to the hospital for episodes of confusion and unresponsiveness, which were thought to be seizures. Imaging of your brain did not show any new stroke or bleeding, and your MRI did not reveal any clear acute abnormality. You were started on a seizure medication called Keppra (levetiracetam), and you did not have further episodes while on this treatment. An EEG from a previous admission showed some brain wave abnormalities. You will follow up with a neurologist after discharge. Your blood thinner was adjusted because it was below the recommended level, and a temporary bridging medication was started. You were also advised to avoid driving and other potentially dangerous activities for several months.
+
+You came to the hospital after having spells of confusion, which doctors believe may have been seizures. You were given a seizure medication and didn’t have any more episodes during your stay. Brain scans didn’t show anything urgent, but your team decided to treat this as a seizure. Your blood thinner level was low, so it was adjusted. You’ll follow up with a neurologist soon. You should avoid driving, climbing ladders, taking baths alone, or using heavy machines for the next few months to stay safe.
+
+
+15:
+
+Comment - 
+
+You were admitted to the hospital with an intestinal obstruction. You underwent surgery to remove scar tissue, internal hernia sacs, and part of your small bowel. A nasogastric tube was placed to help decompress your intestines after surgery. You initially improved but later developed nausea and vomiting due to a partial bowel obstruction, which was treated with bowel rest and another nasogastric tube. You gradually recovered, and the tube was removed. You tolerated a regular diet before discharge. During your stay, you were also treated for epididymitis, an infection, with antibiotics. You will complete your antibiotic course at home.
+
+You came to the hospital because your intestines were blocked. You had surgery to remove scar tissue and part of your intestine. After surgery, a tube was placed to rest your bowels. You had some trouble again with nausea, but it improved with more rest. You’re now eating normally again. While you were in the hospital, you were also treated for an infection near your testicle (epididymitis) with antibiotics. You have a few doses left to finish at home. You’re going home stable and recovering well.
+
+
+16:
+
+Comment - 
+
+You were admitted for evaluation of episodes that may be seizures. While we did not record a seizure during your stay, your EEG showed some abnormal brain activity that may increase your risk for seizures. You were started on a seizure medication called Lamotrigine. An MRI of your brain did not show any structural abnormalities. You were also started on a medication called Mirtazapine to help with symptoms of depression. You chose to leave the hospital before completing the full evaluation, but prescriptions for both medications were provided. Follow-up with neurology and psychiatry was recommended.
+
+You came to the hospital to find out if your episodes were seizures. Although no seizures were recorded, your brain wave test (EEG) showed patterns that suggest you might be at risk. You were started on a seizure medication to help prevent future events. An MRI of your brain was normal. You were also started on medication to help with mood and sleep. You decided to leave the hospital early, but were given prescriptions and instructions to follow up with your neurologist and psychiatrist.
+
+
+17:
+
+Comment - 
+
+You were admitted to the hospital after a fall and were found to have a low white blood cell count and a likely infection. Despite antibiotics and other supportive care, your condition continued to decline. Imaging of your lungs showed signs of possible infection, and a bronchoscopy was done but did not provide a clear cause. You were also found to have a blood clot in your leg and there was concern for a clot in your lungs, but further imaging was not possible due to your kidney function. With worsening breathing and kidney failure, your care was focused on comfort, and you passed away peacefully.
+
+You came to the hospital after a fall and were found to have very low white blood cells, likely due to infection and recent chemotherapy. You were treated with antibiotics, oxygen, and supportive care. You also had a blood clot in your leg, and we were concerned about clots in your lungs, but could not do a full scan due to your kidney problems. Despite our efforts, your condition worsened. After discussions with your family, care was focused on comfort, and you passed away peacefully.
+
+
+18:
+
+Comment - 
+
+You were admitted after a fall that was likely caused by a fainting episode. At the time of admission, your heart rate was low and your pacemaker was not maintaining an adequate rhythm. The cardiology team adjusted your pacemaker settings to a minimum heart rate of 55. Later testing showed that you have a type of heart obstruction that may also have contributed to your symptoms. You were also treated for acute kidney injury, which improved with IV fluids and was likely due to dehydration. A head CT showed no signs of bleeding, and a scalp laceration was treated with staples at an outside hospital. Your blood pressure remained stable after fluids, and your usual medications were resumed. Pain medications were held during your stay and will be resumed at home.
+
+You came to the hospital after fainting and falling. Your heart rate was found to be low, and your pacemaker was not working well. The doctors changed the settings to keep your heart beating at a safer rate. You also had some dehydration that affected your kidneys, but this got better with fluids. A scan of your head showed no serious injury, and the cut on your scalp was already treated. Your blood pressure returned to normal, and your home medications were restarted. Your pain medicine was held in the hospital but can be continued at home.
+
+
+19:
+
+Comment - 
+
+You were admitted for shortness of breath, abdominal pain, and elevated liver numbers. Your oxygen levels were normal, and imaging of your chest did not show a cause for your breathing issues, which improved before discharge. An abdominal ultrasound showed no liver or gallbladder blockage. Your liver numbers improved with supportive care and will continue to be monitored. You also had throat discomfort and difficulty swallowing. You were found to have signs of a possible fungal infection in your esophagus and were started on fluconazole. Your doctors also stopped your doxepin, which may have been contributing to your symptoms. You were treated with fluids for mild kidney injury and low sodium, both of which improved. Nutrition was consulted due to weight loss and poor appetite. You will continue follow-up with your oncologist and psychiatrist after discharge.
+
+You came to the hospital with trouble breathing and abdominal pain. Your tests showed no major issues in your lungs or liver, and your breathing improved. Your liver numbers were a little high, but they got better on their own. You also had pain when swallowing, and the doctors think it was from a fungal infection in your throat. You were started on medication to treat that. One of your other medications, doxepin, was stopped. You had mild kidney problems and low sodium that improved with fluids. You were also seen by the nutrition team because of weight loss. You’ll continue care with your cancer doctor and psychiatrist.
+
+
+20:
+
+Comment - 
+
+You were admitted after having a heart attack (STEMI) shortly after a planned left knee replacement surgery. A stent was placed in one of your heart arteries to restore blood flow. You were started on medications including clopidogrel and aspirin to prevent clotting in the stent, and you should continue these unless told otherwise by your doctor. You also developed new heart failure with a reduced pumping function, and were started on medications including a beta blocker, ACE inhibitor, and a water pill (Lasix). Your fluid levels will need to be monitored closely. You will also be on a blood thinner (warfarin) for 6 months due to reduced heart movement on imaging. Your pain medications were adjusted after your surgery, and physical therapy recommended rehab to help with your knee recovery. During your stay, you had some confusion likely related to medications, which improved after stopping lorazepam and reducing oxycodone. Your COPD and Behçet’s disease were stable during this hospitalization.
+
+You had a heart attack after your knee surgery and had a stent placed in your heart. You’ll need to take aspirin and clopidogrel daily to keep the stent open. Your heart is weaker now, and you’ve started medications to support it and prevent fluid buildup. You’ll also take a blood thinner for six months. Your pain medication was adjusted, and you’ll continue therapy to help your knee heal. You were a bit confused during your stay, likely due to some medications, but you improved once they were changed. Please keep taking your heart medications and follow your discharge instructions carefully.
+
+
+21:
+
+Comment - 
+
+You were admitted to the epilepsy service to evaluate your spells of dizziness and fainting. During your hospital stay, several of these typical episodes were recorded, but none showed signs of seizure activity on EEG. Based on this, your Keppra was slowly stopped and you were started on a new medication called Zonegran. You were discharged on 200 mg of Zonegran at bedtime, with instructions to increase to 300 mg after one week. Your orthostatic blood pressure readings and blood sugar levels were normal during your spells. Your blood pressure medication Florinef was stopped, and your blood pressure remained stable. You should continue taking Neurontin as before.
+
+You came to the hospital for testing to better understand your dizzy spells and fainting. The doctors recorded some of your usual episodes, but your brain waves didn’t show any signs of seizures. You were started on a new medication called Zonegran and will stop taking Keppra. Your blood pressure and sugar were checked during the episodes and were normal. A medication called Florinef was stopped, and your blood pressure stayed steady without it. You’ll increase your Zonegran dose to 300 mg in one week and continue taking Neurontin.
+
+
+22:
+
+Comment - 
+
+You were admitted to the hospital with severe back and leg pain, which was found to be caused by a herniated disc in your lower spine (L4-L5). A neurosurgeon evaluated you and recommended non-surgical treatment, including a temporary increase in your steroid dose. Your pain was difficult to control, so the pain team was consulted. You were started on long-acting morphine and other medications for nerve pain. You also received injections in your sacroiliac joint, hip bursa, and later in your spine (epidural injection). These treatments helped reduce your pain, and you were able to walk again before discharge. Your other medical conditions, including rheumatoid arthritis, asthma, and high blood pressure, remained stable during your hospital stay.
+
+You came to the hospital with intense back and leg pain. A scan showed a bulging disc in your lower back. The specialists recommended treating it without surgery. Your steroid dose was increased to help with inflammation. Since the pain was still severe, you were given stronger pain medications and received several injections. These included shots near your hip and spine, which helped ease the pain. You were able to walk more comfortably before leaving the hospital. Your other health conditions stayed stable, and you’ll continue your usual medications at home.
+
+
+23:
+
+Comment - 
+
+You were admitted after experiencing palpitations and feeling faint. These symptoms were due to a heart rhythm problem called atrial fibrillation. You underwent a successful cardioversion, which restored your heart to a normal rhythm. Your heart medication, flecainide, was increased to twice daily, and you were started on a blood thinner called Xarelto to reduce the risk of blood clots. You were discharged with a heart monitor and instructions to follow up with your cardiologist within one month. Please be cautious with physical activities like horseback riding while on Xarelto, as it increases your risk of bleeding.
+
+You came to the hospital because of an abnormal heart rhythm called atrial fibrillation. Your heartbeat was returned to normal using a procedure called cardioversion. Your medication was adjusted, and you were started on a blood thinner to help prevent strokes. You’ll wear a heart monitor at home and follow up with your heart doctor soon. Because of the blood thinner, you should be extra careful with any activity that could cause injury—like riding a horse—and always wear a helmet.
+
+
+24:
+
+Comment - 
+
+You were admitted for chest pain and were found to have elevated heart enzymes consistent with a type of heart attack called NSTEMI. You were started on a blood thinner (heparin) and taken to the cardiac catheterization lab. The results showed moderate blockage in several heart arteries, but no procedure was done due to the small size of your vessels. Your chest pain was initially managed with IV medications and improved. After the procedure, you had a brief episode of double vision. A CT scan of your head showed no signs of stroke, and your symptoms resolved. You also reported abdominal pain, and an MRI confirmed that your peritoneal dialysis catheter was in the correct position. Swelling in your left leg was evaluated with an ultrasound, which ruled out a blood clot. Your other symptoms improved, and your blood pressure medications were adjusted before discharge.
+
+You came to the hospital because of chest pain. Tests showed a mild heart attack, and you had a heart catheterization that showed some blocked arteries. Because your blood vessels were too small, no stents were placed, but your condition improved with medication. After the procedure, you had some double vision that went away on its own, and a brain scan ruled out a stroke. You also had some stomach pain, but an MRI confirmed your dialysis catheter was in the right place. A scan of your leg ruled out a clot, and the swelling was likely from how you were lying in bed. Your medications were adjusted to help manage your blood pressure before you went home.
+
+
+25:
+
+Comment - 
+
+You were admitted with complications related to blood thinners, including significant bruising and bleeding after a fall. Your blood levels were too high from a medication called Coumadin, and you required blood transfusions. This medication was stopped, and we restarted a different blood thinner (Lovenox) at a safer dose. A filter was placed in one of your veins to help prevent future blood clots from reaching your lungs. You were also found to have fluid around your lungs and heart, which we monitored closely. The fluid from your lung was drained and did not come back. Scans also showed spots in your lungs and liver that may represent cancer. After discussing options with your niece, you decided not to pursue more tests or treatment and instead focus on comfort care with hospice support. You were discharged back to your long-term care facility with a plan for follow-up.
+
+You were admitted after having serious bruising and low blood levels from a fall while on blood thinners. We stopped one blood thinner and continued another at a safer dose. You also had a filter placed to prevent clots from moving to your lungs. There was fluid around your lungs and heart, and the lung fluid was drained without returning. Scans showed spots in your lungs and liver that could represent cancer. You and your family chose not to do more testing or treatment, and instead decided to focus on comfort and return to your care facility with hospice support.
+
+
+26:
+
+Comment - 
+
+You were admitted to the hospital because of weakness and very low blood counts, which were likely caused by a combination of chronic anemia from an autoimmune condition and possible bleeding in your digestive tract. You received multiple blood transfusions and your condition stabilized. An upper endoscopy was done and did not find any active bleeding. Your autoimmune hemolytic anemia, which contributes to your low blood counts, continued to be treated with prednisone. Because your blood thinner (Coumadin) was too strong when you came in, it was stopped and temporarily replaced with a safer blood thinner called heparin. We restarted your Coumadin slowly and will stop the heparin once your blood levels (INR) are in the right range. You were discharged back to your assisted living facility and should continue to monitor your blood work closely.
+
+You were admitted due to very low red blood cell counts, and we were concerned that you might be bleeding internally. A scope test of your stomach did not find any bleeding. You also have a condition that causes your immune system to attack your red blood cells, which we continued treating. We gave you blood transfusions, and your energy and blood levels improved. Your regular blood thinner, Coumadin, was too strong, so we stopped it and gave you a temporary medication (heparin) until your blood levels are safe again. You will continue this treatment back at your care facility.
+
+
+27:
+
+Comment - 
+
+You were admitted with shortness of breath. You were diagnosed with a COPD exacerbation, likely triggered by a recent infection. You were treated with nebulizers, steroids, and antibiotics. Your symptoms improved and you were discharged on maintenance inhalers (Spiriva and Advair). Tobacco cessation was advised. An echocardiogram was performed to assess your heart due to a history of cardiac disease; the results were pending at discharge.
+
+You were admitted due to shortness of breath, which was determined to be a COPD exacerbation likely triggered by a recent upper respiratory infection. You improved with treatment including nebulizers, steroids, and antibiotics. You were discharged on long-term inhalers Spiriva and Advair. Because of leg swelling and a history of heart problems, you also underwent an echocardiogram, which was pending at the time of discharge. You may need follow-up pulmonary function testing and a sleep study for suspected obstructive sleep apnea.
+
+
+28:
+
+Comment - 
+
+You were admitted for pneumonia and chronic back pain from compression fractures. You were treated with additional nebulizers in ED and on the floor for your breathing. your chest x-ray did not show obvious pneumonia, but we decided treat you with antibiotics for pneumonia since you had fever, coughs with sputum, and difficulty breathing. We also gave you additional dose of prednisone which you will be taking for total of 5 days preior to resumming to your home dose. We also sent labs to rule out heart attack which came back negative and your electrocardiogram shows no evidence of new ischemia. We recommed that you follow up with an endocrinologist for possible intravenous bisphosphonate therapy for your osteoporosis.
+
+You were admitted for pneumonia, a COPD exacerbation, and chronic back pain from vertebral compression fractures. Although your chest X-ray did not show a lobar infiltrate, you were diagnosed with pneumonia based on your fever, rapid breathing, elevated white blood cell count, and sputum production. You were started on Levofloxacin and will complete the antibiotic course after discharge. Blood cultures were pending at discharge, and your Legionella antigen test was negative. You received a fluid bolus for tachycardia, which resolved. Tessalon Perles and guaifenesin were prescribed for symptom relief. Your oxygen saturation remained stable on 3L home oxygen during ambulation.For your COPD exacerbation, you received nebulized therapies and a pulse dose of prednisone (60 mg daily for a total of 5 days, including Solu-Medrol in the ED), then resumed your home dose of 10 mg. Your chronic back pain was stable, despite recent minor trauma, and was managed with home medications. Imaging showed no new fractures. ECG and cardiac enzymes were normal. You remained asymptomatic on telemetry. Lisinopril was continued. For osteoporosis from long-term steroid use, you are on calcium and vitamin D, and outpatient follow-up for bisphosphonate therapy was recommended. You were discharged on a bowel regimen and PPI. Code status is full (presumed).
+
+
+ 29:
+
+Comment - 
+
+You were admitted because you were on blood thinners and were coughing up blood. We were concerned about the blood that you were coughing up, so we did a number of tests. We also stopped your Plavix, a medicine that can make you bleed easier - and that helped to reduce the amount of blood that you were coughing up. The lung doctors spoke with patient about the results of your recent lung CT, and explained that they will need to get a sample of tissue in order to find out what is in your lungs. You also got a head MRI to look for any changes in your brain. Since you were stable and did not need to be in the hospital for any other tests, it was decided that you could go home safely. You have a bronchoscopy schedule for patient. Please DO NOT eat after 11:59PM on patient and do not eat breakfast or lunch.
+
+You were admitted with hemoptysis (coughing up blood), which raised concern for a possible lung cancer given a right hilar mass seen on CT along with your history of smoking, colon cancer, and weight loss. Your blood thinners (Plavix and aspirin) were held to reduce bleeding, and your symptoms improved. You remained stable during your stay without respiratory distress or low oxygen levels. A bronchoscopy with biopsy, cryotherapy, and possible stent placement is scheduled to evaluate the mass. A PET-CT is also planned for staging. You had a brain MRI before discharge, which showed no acute findings, but the final read still needs to be followed up.Your Plavix should remain on hold until the procedure, but continue your aspirin. You were given nicotine patches to support smoking cessation. Your calcium levels were mildly elevated, consistent with your known history of hyperparathyroidism, and no treatment was needed during this stay. Your diabetes was managed with sliding scale insulin, but no insulin was required. Your home statin was continued. A discussion about restarting Plavix after the procedure will happen during follow-up. Your code status is full. Your daughter patient is listed as the primary contact.
+
+
+30:
+
+Comment - 
+
+You were admitted to patient due increased shortness of breath, and increasing swelling in your lower legs. The swelling is due to stiffness of your heart. The stiffness is mild, however, it causes fluid to build up in your legs and lungs. You had a CT scan of your lungs out of concern for a blood clot in your lungs. The CT was negative, meaning there was no blood clot. We gave you a medication called furosemide (Lasix) first IV, then by mouth. You tolerated the medication well, the swelling decreased and your shortness of breath improved. You no longer required oxygen, and you were much improved.
+
+You were admitted for worsening shortness of breath and leg swelling, and were diagnosed with a congestive heart failure exacerbation, likely due to chronic diastolic dysfunction. You had signs of fluid buildup in your lungs and legs and required supplemental oxygen. An echocardiogram showed a moderately enlarged left atrium and left ventricular hypertrophy with preserved ejection fraction (>55%), consistent with diastolic heart failure. A CT angiogram ruled out a pulmonary embolism. You were treated with intravenous Lasix, transitioned to oral Lasix, and showed improvement in your symptoms, including resolution of swelling and oxygen needs. You were discharged on Lasix 20 mg daily and continued your home medications for blood pressure and diabetes.You have a history of hypertension, hyperlipidemia, diabetes, and recent spinal surgery. Your home blood pressure medications, including trandolapril, carvedilol, and hydrochlorothiazide, were continued; Aliskiren was held. Your blood sugar was managed in the hospital and you were discharged on metformin. Your LDL was well controlled and you remained on atorvastatin and fish oil. A thyroid nodule was noted on imaging and an outpatient ultrasound is scheduled. You have a history of alcohol use; there was no evidence of withdrawal during admission, but you were counseled extensively on stopping alcohol due to its impact on your heart. Follow-up appointments were made with a new PCP and cardiologist.
+
+
+ 31:
+
+Comment - 
+
+You came because of abdominal pain. A CT scan showed that you had inflammation in the right lower portion of your abdomen, possibly caused by a rupture of the appendix or a Crohn's disease flare. You were started on antibiotics and given medication to control your pain. In order to rest your intestines, we had not stop eating and drinking, and then we slowly had you reintroduce foods as you were able to tolerate them. You did very well, and we were able to switch you to a pill antibiotic called augmentin. You will take a total of 14 days of antibiotics, last day on patient. You also had hidradenitis with a surrounding infection. You were treated with antibiotics, and your symptoms improved.
+
+You were admitted for worsening abdominal pain shortly after a colonoscopy. A CT scan showed inflammation in the lower right side of your abdomen (phlegmon), possibly due to a Crohn’s disease flare or appendicitis. You were treated conservatively with IV antibiotics, bowel rest, and pain control. Once stable, you were discharged on a liquid diet with Ensure and transitioned to oral Augmentin to complete a 14-day course. Humira, your regular medication for Crohn’s disease and arthritis, was held due to the infection and should be restarted only after recovery. You were also prescribed tramadol and acetaminophen for pain. In addition, you had a flare of hidradenitis in your left underarm area with signs of infection, which improved with IV vancomycin followed by oral Augmentin. A mild rash appeared after starting Augmentin, but treatment was continued. You should follow up with your primary care provider and dermatologist for long-term hidr
+
+
+ 32:
+
+Comment - 
+
+You were admitted with leg weakness, you had a muscle test to look at the nerve function in your muscles and this was normal. You had a number of radiology studies to look for anatomical causes of your weakness and there was no evidence of any dangerous abnormality. During this hospitalization you developed respiratory distress, which was probably caused by the fluids you were given for hydration prior to a radiology study. You were treated with diuretic medicines to allow you to get rid of the fluid in your lungs and you improved. You worked with physical therapy and your leg weakness resolved. Most of your home medications remain the same.
+
+You were admitted with progressive leg weakness and had extensive workup including CT scans, EMG testing, and labs, which did not reveal a clear cause such as Guillain-Barré or cancer. You were later found to be in heart failure due to excess IV fluids given before imaging. This led to shortness of breath and a diagnosis of acute CHF exacerbation. You were initially treated with IV Lasix, then switched to your home medication (torsemide), with significant improvement in your symptoms. Your leg strength improved with physical therapy and you were discharged walking with a walker.Your kidney function worsened during your stay due to contrast dye used in scans, but it improved gradually, likely representing contrast-induced nephropathy. Most of your cardiac medications were continued, including isosorbide mononitrate, metoprolol, simvastatin, and aspirin. Your atrial fibrillation was managed with your pacemaker and resumption of Coumadin. For diabetes, glyburide was replaced with glipizide because of your temporary kidney issues. You were discharged with follow-up for physical therapy and primary care.
+
+
+ 33:
+
+Comment - 
+
+You were admitted with shortness of breath. Initially, you went to the ICU because we felt that your shortness of breath could be related to sleep apnea. Once we found your breathing had normalized in the ICU, we brought you to the regular medical floor. Since you continued to have a cough, we treated you for worsening of your COPD. We gave you three days of steroids and an antibiotic called azithromycin. You should continue azithromycin for two more days. You also told us that you had some trouble swallowing. We did a CT scan which showed that some of your esophagus, or swallowing tube, was being compressed probably because you have a history of thyroid cancer. We did a test that measures your swallowing ability and found that you should try to eat softer foods and your pills should be crushed before you take them.
+
+You were admitted to the ICU for shortness of breath and started on BIPAP, but this was stopped after poor tolerance. You were treated for a COPD exacerbation with a 3-day course of oral steroids and a 5-day course of azithromycin. CT imaging was done to evaluate for possible tumor progression due to your history of medullary thyroid cancer. While in the ICU, your breathing stabilized without oxygen, and you were transferred to the medical floor. On the floor, you remained stable on your baseline 3L oxygen during ambulation and were treated with nebulizers and guaifenesin. A new lung nodule was seen on imaging, and you were referred for outpatient pulmonary follow-up.You also reported difficulty swallowing solid foods. Imaging showed compression of your esophagus due to thyroid gland enlargement, likely related to your cancer. Speech and swallow evaluation recommended a soft solid diet. You were referred to radiation oncology to address the mass. Your white blood cell count was elevated, possibly due to steroids. You were afebrile with no signs of infection, and your primary care provider was notified to follow up. Your chronic kidney disease remained stable (Cr 1.9), and medications were dosed accordingly. Blood pressure was mildly elevated, likely due to steroids, but controlled on your usual medications. Other chronic conditions, including BPH and hypertension, were managed with your home regimen. You were discharged with plans for outpatient follow-up.
+
+
+ 34:
+
+Comment - 
+
+You were admitted to the hospital after you were found down and unresponsive. You blood alcohol level was found to be very high. There were concerns from you chest xray that you mave have had aspirated and may have had an infection or inflammation in your lungs. Your bilirubin level was also increasing. You had a missed a couple doses of your steroids as you had lost your medications. You were given a few doses of steroids to treat your alcoholic hepatitis. Your bilirubin level continued to rise. You were started on antibiotics for this. You developed a rash and had a drop in your blood cell counts. You were seen by the dermatology doctors and the patient was biopsied. Preliminary read showed no evidence of vasculitis (inflammation of blood vessels). Final read is still pending. Your bilirubin level stablized.
+
+You were admitted after being found unresponsive, likely due to alcohol intoxication. You were treated for alcoholic hepatitis, a liver condition caused by heavy alcohol use. Your steroid medication (prednisone) was restarted after you reported losing your medications. Although your bilirubin level initially rose, it later stabilized with continued treatment. You were also started on antibiotics for a possible lung infection based on chest imaging, but these were stopped once you showed no signs of infection and began improving.During your stay, you were monitored and treated for alcohol withdrawal using Valium, vitamins (thiamine, folate, MVI), and Keppra for your history of seizures. You developed a rash on your arms and legs, which was evaluated by dermatology and found to be non-vasculitic. You also had a significant drop in your blood counts, which was thought to be medication-related. These began to improve after stopping antibiotics. Your chronic liver disease, including cirrhosis with a history of TIPS and esophageal varices, remained stable. You were discharged in stable condition and advised to follow up on your labs and continue alcohol cessation support.
+
+
+ 35:
+
+Comment - 
+
+You were hospitalized with an infection related to a blockage in your biliary tree (the area that includes your gall bladder). You were treated with a procedure called an ERCP to relieve the blockage and a plastic tube called a stent was placed in the biliary tree. In four weeks we will arrange to have you come back and have the stent removed with a similar procedure. During the procedure they also performed a small cutting of the biliary tree to help the gallstones pass. Due to this, please avoid taking any medicines such as ibuprofen, alleve, aspirin, advil, Plavix or Coumadin for the next 5 days. You will need to take Ciprofloxacin for 5 days to treat the infection.
+
+You were admitted with one day of abdominal pain, nausea, and vomiting concerning for biliary obstruction. You underwent an ERCP procedure, where your old biliary stent was removed and a new one was placed successfully to relieve the obstruction. Your symptoms improved, and you were able to tolerate a regular diet. You were discharged on a 5-day course of ciprofloxacin and advised to avoid NSAIDs and blood thinners such as ibuprofen, aspirin, Plavix, or Coumadin for the next five days to allow proper healing.You should follow up with your doctor for a repeat ERCP in four weeks to remove the current stent and reassess your bile
+
+
+ 36:
+
+Comment - 
+
+You were admitted to patient due to fevers and low blood pressure. You were found to have a distinct rash consistent with early Lyme disease. You were given fluids and antibiotics, and you improved. You should continue to take this antibiotic (doxycycline) for a total of 14 days. While on this medication, your skin can be very sensitive to sunlight. Please be sure to wear sunscreen and adequate clothing protection and minimize your time in the sun if possible. This medication may also affect your INR. Your INR came back at 1.6. Because it is low and because you have had an embolic stroke in the past related to a low INR, it is important that you use lovenox (an injection anticoagulation) until your INR is greater than 2.5. I have spoken with your patient clinic and you should have your INR checked there on patient. In the meantime, please take one more day of 15mg coumadin patient 15mg received here and patient 15mg you should take at home). Lyme disease is caused by tick bites. To prevent this from happening again, please consider bug spray and tall socks when outdoors. You should also always check your skin thoroughly when you come in from outside for any ticks.
+
+You were admitted with fever, low blood pressure, and a rash on your inner thigh after recent outdoor activity. The rash was consistent with early Lyme disease. You were given IV fluids and started on antibiotics (initially ceftriaxone, then switched to doxycycline). You improved quickly and were discharged to complete a 14-day course of doxycycline. While on this medication, you should minimize sun exposure and avoid taking iron supplements, which may interfere with the drug.Because your INR (blood thinning level) was low at 1.6—and you have a history of an embolic stroke that occurred during a previous period of low INR—you were started on a bridging blood thinner (Lovenox injections) until your INR reaches a safe level. Your Coumadin dose was temporarily increased, and arrangements were made for your INR to be rechecked in clinic. Your chronic medications for heart disease, mechanical valve, and mild cognitive impairment were continued. Your code status remains full.
+
+
+ 37:
+
+Comment - 
+
+You were admitted to the hospital because of an episode of acute pancreatitis from alcohol intoxication and alcohol withdrawal. While you were here we gave you Valium to ease you withdrawal symptoms, and supportive medicine to get you through the pancreatitis. Also while you were here your clonidine was stopped and you were started on lisinopril. You will need to have your blood pressure checked and your kidney function and electrolytes checked sometime in the next patient weeks. We strongly encourage you to stop drinking alcohol and seek assistance for your dependence on alcohol. Attacks such as these will continue to recur while you drink. Please use the resources our Social work team has provided.
+
+You were admitted for acute alcoholic pancreatitis and alcohol withdrawal. You presented with abdominal pain and had a very high lipase level after several days of heavy drinking. You were treated with IV fluids, nausea medication, and pain control. Your symptoms improved, and you were able to advance your diet after two days. By discharge, you were pain-free and eating normally. You also experienced alcohol withdrawal symptoms including hallucinations, but no seizures or confusion. You were treated with Valium based on symptom severity, and no further doses were needed in the 24 hours before discharge. You were also given thiamine, folate, and a multivitamin to support your recovery. Social work was consulted to support long-term sobriety planning.Your blood pressure was high on arrival, and you reported taking your home medication (clonidine) inconsistently. Clonidine was discontinued and replaced with lisinopril 20 mg daily. You were advised to follow up with your primary care provider and check your kidney function and electrolytes. You also had a slow heart rate at times (bradycardia) without symptoms, and your EKG showed normal rhythm. Your platelet count dropped temporarily but recovered without treatment. You were continued on your psychiatric medications for bipolar disorder, including Seroquel, Celexa, and Trileptal. You were discharged in stable condition.
+
+
+ 38:
+
+Comment - 
+
+You were admitted to patient patient for substance withdrawal. When you arrived, you had a breathing tube which was removed after several hours of monitoring. You were treated with medications to treat the high blood pressure muscle cramps, shakes, and other symptoms of withdrawal. It is VERY IMPORTANT that you stop using illegal substances. You were found to be anxious and depressed about your legal situation. You were continued on Celexa and treated with anti-anxiety medications while in the hospital. You are no longer withdrawing from medications/illicit drugs. You were also found to have pain and discharge from your penis. You were treated with pain medicine. You were treated for gonorrhea/chlamydia while tests were sent and ultimately negative for gonorrhea/chlamydia You are now safe to leave the hospital.
+
+You were admitted with altered mental status due to acute opioid intoxication and withdrawal. You required brief intubation for airway protection and were treated in the ICU with medications for withdrawal, including Valium and Clonidine. You were also monitored for alcohol withdrawal and received supportive care with vitamins. Over the course of your stay, your symptoms resolved, and you were stable with no signs of withdrawal for more than 24 hours before discharge. You were also evaluated for anxiety, which appeared to be related to stress about your legal situation. You were continued on Celexa and prescribed citalopram, since you had previously been taking a family member’s medication.You also reported penile pain and discharge, which was initially treated as a possible sexually transmitted infection. You received antibiotics for gonorrhea and chlamydia, but all test results were negative. Your symptoms resolved with treatment. Additionally, your asthma was managed with albuterol as needed, and you were discharged on your usual psychiatric medications. Outpatient follow-up was recommended for your anxiety and ongoing substance use treatment.
+
+
+ 39:
+
+Comment - 
+
+You came in because of chest pain. We do not believe your chest pain was due to a heart attack but was more likely a symptom of your alcohol withdrawal. We belive your nausea, abdominal pain, and tremors were also likely due to alcohol withdrawal. We treated your symptoms and we felt that you were well enough to go home. We stopped your metformin because of concern of acid buildup. Please see the patient after your appointment with Dr. patient on patient - it is very important that we get your diabetes under better control. You also saw the social worker who thought that patient would be a great option for you. Please call patient patient tomorrow between patient. You should stop drinking for your own safety and health.
+
+You were admitted for chest and abdominal pain in the context of recent heavy alcohol use and alcohol withdrawal. Your symptoms included tremors, nausea, and diarrhea, which improved with supportive care and monitoring on the CIWA protocol. Your chest pain was not caused by a heart attack, as cardiac tests (troponins, D-dimer, and BNP) were normal, and your symptoms resolved during your stay. You were discharged on vitamins including thiamine, folate, and a multivitamin.You were found to have anemia and were advised to follow up with a colonoscopy and potentially an upper endoscopy as an outpatient. Your diabetes was poorly controlled on admission, with a high blood sugar and recent loss of medications. Metformin was not restarted due to concerns about acid buildup in the setting of alcohol use, and you were started on a new insulin regimen. You expressed strong interest in stopping alcohol use and spoke with social work, who helped set up an evaluation with AdCare for further treatment. You were encouraged to call them as planned and follow up with both your primary care doctor and diabetes clinic.
+
+
+ 40:
+
+Comment - 
+
+You were admitted to the hospital for abdominal pain, nausea, and inability to take in oral liquids/food due to a gastroparesis flare. Most likely this was triggered by your recent urinary tract infection. You were treated with supportive care (bowel rest, anti-nausea medicines, pain medicines) and your symptoms improved. You also had some kidney injury due to dehydration which resolved with IV fluids. You had a segment of your EKG (heart electrical conduction) that was slightly prolonged due to the effect of multiple medications you were taking. This can be dangerous because it can cause a fatal rhythm problem in your heart.
+
+You were admitted for abdominal pain, nausea, and vomiting, which was consistent with a flare of your gastroparesis. Contributing factors may have included constipation and GERD. You were treated with bowel rest, IV fluids, anti-nausea medications, and pain control. Your symptoms gradually improved, and you were able to resume a regular diet without discomfort. A possible urinary tract infection was ruled out, and your kidney function improved with hydration.Your prolonged QT interval on EKG was attributed to medications, including citalopram and metoclopramide. These were held during your stay, and your EKG findings normalized. You were discharged on sertraline instead of citalopram and advised to avoid QT-prolonging medications. Your blood sugar was managed with a modified insulin regimen while you weren’t eating and resumed your home insulin once you were tolerating food. You were discharged in stable condition.
+
+
+ 41:
+
+Comment - 
+
+You presented following sudden onset right sided weakness, slurred speech and difficulty getting the words out. Unfortunately you were on a cruise ship at the time and when you were able to dock in at patient your were transferred to the patient. You were evaluated by Neurology in the ED and admitted under our services. You had a CT scan of the head and the arteries of the head and neck which was unremarkable. You then had an MRI scan which demonstrated a stroke affecting the left side of your brain. You were started on treatment to reduce the risk of further strokes with aspirin and clopidogrel (Plavix). You also had an echocardiogram (heart ultrasound) which was unremarkable. Currently the exact cause of your stroke is unknown but mau have been due to an abnormal heart rhythm that resolved. We found no evidence of an abnormal heart rhythm while we were monitoring your heart. You have neurology patient as below and may need further investigations. Our specialists also recommend out-patient patient and speech therapy.
+
+You were admitted after developing sudden right-sided weakness, slurred speech, and difficulty expressing words. At the time, you were aboard a cruise ship and could not be evaluated immediately. Once you arrived at the hospital, a CT scan of your brain and blood vessels showed no blockages, but an MRI revealed a stroke in the left posterior frontal lobe. Your symptoms improved with supportive care, but you were left with mild right-sided weakness, facial droop, and expressive language difficulties (Broca’s aphasia). A cardiac workup, including telemetry and echocardiogram, found no clear source of embolism, though a past history of arrhythmia remains a possible cause.You were started on aspirin, clopidogrel (Plavix), and niacin to reduce stroke risk, and your blood pressure medications were resumed. Thyroid medication was continued, and you were placed on a heart-healthy diet. You were evaluated by speech and swallow specialists and cleared for regular food and liquids. At discharge, you were referred to outpatient speech therapy and neurology for follow-up. Additional cardiac rhythm monitoring may be considered in the future
+
+
+ 42:
+
+Comment - 
+
+You were admitted with abdominal pain readiating to your back. Your labs revealed inflammation of the liver and inflammation of the pancreas. I believe the latter has been causing your pain symptoms. Abdominal imaging (CT and Ultrasound) suggested liver inflammation. It did not show gallstones, biliary anatomy problems or pancreas inflammation. Urine showed some microscopic blood which cleared. There was no other evidence of kidney stone, or evidence of a passed gallstone to explain your labs or clinical picture. You were taking a lot of tylenol containing medication which may have caused some of the liver inflammation, though this is not certain since your tylenol level was undetectable. Tests for viral hepatitis B & C are still pending. At this point, we have not identified a definite cause of the inflammation noted, but your liver lab tests show improvement, though your pancreas enzyme remains elevated. You are now tolerating food without recurrent pain. You may benefit from further pancreatic imaging with MRI or endoscopic pancreatogram depending on future lab and clinical picture. The pancreas GI team has agreed to see you in the outpatient setting.
+
+You were admitted with abdominal pain radiating to your back, and lab tests showed inflammation of both the liver and pancreas. Although your abdominal CT did not show pancreatitis, your clinical symptoms and elevated lipase suggested this was the likely cause of your pain. Your symptoms improved during the hospital stay with IV fluids, a gradual return to eating, and transition to oral pain medications. You tolerated a full meal prior to discharge without recurrent discomfort. You were referred to the pancreas specialty clinic for further evaluation, and outpatient imaging like an MRCP may be considered to assess for anatomical causes.Your liver inflammation may have been related to recent increased use of acetaminophen (Tylenol), though your blood level was undetectable on arrival. You received a dose of NAC (an antidote for Tylenol) as a precaution, and your liver tests began improving. You were advised to avoid Tylenol moving forward. Mild hematuria (blood in urine) was noted but resolved and did not appear to be caused by kidney stones. Your white blood cell count improved without antibiotics, and you had no further signs of infection. Your anxiety was managed with a short course of as-needed medication, and your anemia will be followed as an outpatient.
+
+
+ 43:
+
+Comment - 
+
+You came in with an old L-arm fracture and L-sided wrist drop after you fell at home while drinking alcohol. You came in for alcohol withdrawal and were treated with valium. You came in with an old L-arm fracture and L-sided wrist drop after you fell at home while drinking alcohol. You came in for alcohol withdrawal and were treated with valium. we started making arrangements for alcohol treatment programs while you were hospitalized. We recommended pursuing immeadiate inpatient treatment but you chose to go home and make further arrangements. PLEASE DO NOT DRINK ANY ALCOHOL. Your medications were unchanged.
+
+You were admitted after falling at home while intoxicated, resulting in a left arm injury and wrist drop. You were transferred for further evaluation and management. At the hospital, you were treated for alcohol withdrawal using the CIWA protocol, receiving Valium as needed. Your withdrawal symptoms improved quickly, and no further doses were needed after the first day. You were also given thiamine and folic acid for nutritional support. Your blood pressure was mostly well controlled with your usual atenolol, and your vital signs remained stable.Some of your outpatient psychiatric medications were continued, while others were held due to uncertainty about your current regimen. Because of concerns for your safety at home and ongoing alcohol use, you were placed under a Section 35 hold for inpatient substance use treatment. Discharge planning included arranging follow-up with alcohol treatment services. It is critically important that you avoid alcohol and follow up with your care team.
+
+
+ 44:
+
+Comment - 
+
+Syncope/ Transient Loss of Consciousness Syncope or fainting is a common problem caused by inadequate blood flow to the brain. There are many serious reasons for fainting, including internal bleeding, irregular heartbeat, and diseases of the heart muscle or valves or circulation. Other causes include diseases of the central nervous system, medications, low blood sugar, or dehydration. Vasovagal Syncope is the most common cause of syncope and can occur in healthy people at the sight of blood, hearing unexpected news, or while experiencing pain During your stay in the hospital, we did not find an immediately life-threatening cause for your loss of consciousness. Rarely, serious symptoms can develop later.
+
+You were admitted after fainting at a parking office, which occurred following a severe coughing spell. Imaging showed significant narrowing of your airway to 4mm due to squamous cell carcinoma (SCC) of the larynx. During your hospital stay, you had two more fainting episodes witnessed by the interventional pulmonary team, who determined they were likely due to a combination of low oxygen levels and vagal stimulation from coughing. You underwent an emergent procedure to place a stent and clear the airway obstruction. The procedure was successful, and your breathing significantly improved afterwards.You experienced some minor blood-tinged sputum after the stent placement, which turned brown and was not concerning to the pulmonary team. You also had a low-grade fever overnight, but testing for infection was negative and your temperature normalized. Your kidney function remained stable throughout your stay. You were discharged in stable condition and advised to follow up for cyberknife radiation treatment for your airway cancer and with your primary care doctor for ongoing care and lab follow-up.
+
+
+ 45:
+
+Comment - 
+
+You were admitted with a high fever of 104°F, chills, body aches, and cough. A chest X-ray showed pneumonia in your right lung. You were treated with antibiotics, intravenous fluids, and Tylenol. Blood, urine, and sputum cultures came back negative. A flu swab was also negative, but Tamiflu was continued due to the possibility of a false-negative result and your symptoms being consistent with the flu. Your temperature improved during your stay, and on the day of discharge, you were stable and had no remaining respiratory symptoms.
+
+You were initially started on broad-spectrum antibiotics and antiviral therapy. After your tests came back negative, antibiotics were narrowed to levofloxacin and Tamiflu was continued. Your fever resolved and your breathing returned to normal. You were discharged with instructions to complete a 14-day course of levofloxacin and finish your 5-day course of Tamiflu at home. You were also mildly dehydrated and had a fast heart rate, both of which improved with fluids and fever control. Your kidney function remained stable, and your transplant medications were continued. Your high blood pressure was managed with your regular medications, which were resumed on discharge. Your diabetes was treated with insulin as usual. You were discharged in stable condition and advised to follow up with your primary care doctor.
+
+
+ 46:
+
+Comment - 
+
+You were admitted to the hospital with severe and worsening abdominal pain. You had a very thorough workup for causes of abdominal pain including imaging, GI consultation, and Pain Service consultation. You were thought to have abdominal myofascial strain that was the cause of your symptoms, and you did quite well with cyclobenzaprine. You are being discharged with anti-inflammatory medications, cyclobenzaprine, and oxycodone. You should rest and avoid active duty and any heavy lifting greater than 20 pounds while you are recovering. You shouldn't drive, operate machinery, or do active duty police work while taking cyclobenzaprine or oxycodone.
+
+You presented with a week-long history of intermittent and progressively worsening abdominal pain. Despite extensive testing — including CT, MRI, upper endoscopy, HIDA scan, and lab work — no clear intra-abdominal cause was found. You did not improve with medications like Bentyl, simethicone, or PPIs. The pain team evaluated you and diagnosed abdominal wall myofascial strain. You experienced significant relief after starting cyclobenzaprine, and no further acute issues were identified.  You were discharged home with instructions to continue Tylenol, Naproxen as needed, and cyclobenzaprine. Oxycodone was prescribed for breakthrough pain. If your symptoms return or worsen, a trigger point injection may be considered in follow-up with the pain clinic. You were advised to avoid driving or performing physically demanding tasks, particularly while taking sedating medications. You plan to return to light, office-based duties while recovering.
+
+
+ 47:
+
+Comment - 
+
+You were admitted with fever and right upper abdominal pain and were diagnosed with cholangitis, an infection of the bile ducts. Imaging was inconclusive, but blood cultures showed bacteria in your bloodstream, and you were started on broad-spectrum antibiotics. You underwent a procedure called ERCP to relieve the infection, during which pus and sludge were drained. Your condition improved, and antibiotics were narrowed to Augmentin based on the culture results. You were discharged to complete a 14-day course of antibiotics starting from the last positive blood culture.
+
+You also had high blood sugar at the time of admission and required an insulin drip in the ICU. Once your glucose stabilized, you were transferred to the medical floor and managed with a sliding scale insulin regimen. You resumed your home diabetes medications at discharge. A mild metabolic acidosis seen on admission resolved quickly with IV fluids. You also experienced temporary chest discomfort and neck pain, which resolved without complications.Your kidney function remained stable throughout your stay. Your oxygen levels were normal, and no respiratory support was needed. A follow-up cardiac stress test was recommended due to some ST changes on your initial EKG. You were discharged in stable condition with instructions to complete your antibiotics, monitor your symptoms, and follow up with your primary care provider.
+
+
+ 48:
+
+Comment - 
+
+You were admitted to the hospital because of worsening weakness and frequent falls over the past few months. While in the hospital, you had imaging studies including MRI of your spine and CT scans of your chest and abdomen, which were unrevealing. Based on your exam and symptoms, your doctors suspect that a muscle-related problem is contributing to your weakness. A neuromuscular specialist evaluated you and reviewed your testing, including an EMG, and thought your symptoms may be due to a combination of factors rather than a single diagnosis.
+
+The neuromuscular team did not find evidence of common muscle diseases or nerve disorders such as myopathy, myasthenia gravis, or Lambert-Eaton syndrome. Some fatigue-related weakness and signs of small fiber neuropathy were noted, and blood work is pending for further evaluation. A muscle biopsy was considered but thought unlikely to be helpful at this time. Because your symptoms remain unexplained but appear stable, the team recommended outpatient follow-up and additional testing after discharge.You will be discharged to a rehabilitation facility to help improve your strength and balance. Your stay is expected to be less than 30 days. Further outpatient follow-up will include lab testing, potential heart evaluation, and neurology consultations. You were also advised to follow up on medication adjustments and discuss whether fluctuations in your blood sugar could be contributing to your symptoms.
+
+
+ 49:
+
+Comment - 
+
+You were admitted to the hospital because you were having an abnormally fast heart rhythm (atrial fibrillation and atrial flutter) for which you underwent a procedure (ablation) to prevent your heart from going back into this arrhythmia. After the procedure, you had a briefly slow heart rate, which normalized over time while in the hospital. You were started on a medication called warfarin (Coumadin) which you will continue to take after discharge. You were also started on a medication called Lovenox, which is also a blood thinner. It is important that you take this medication until your warfarin level (called the INR) is therapeutic. It is very important that you follow-up with your outpatient providers, and follow their recommendations regarding dosing of these medications. Failure to do so can put you at higher risk of bleeding.
+
+In addition to your heart rhythm issues, you also had worsening heart failure, likely caused by the fast heart rate. This was treated with IV diuretics to remove excess fluid, and your heart failure symptoms improved. You were restarted on a lower dose of your usual beta-blocker (metoprolol) and continued on other medications such as aspirin, statins, and diuretics. Your kidney function also briefly worsened during your stay but improved with treatment.Your diabetes was managed with insulin during the hospital stay, and your cholesterol medications were continued. You were discharged in stable condition. You will need frequent INR checks after discharge to ensure your warfarin dose is correct, and you were given instructions to follow up with your medical team. It is very important that you keep all appointments and labs related to your blood thinner monitoring.
+
+
+ 50:
+
+Comment - 
+
+You were admitted to the hospital after developing fever and drainage from a previous abdominal surgical wound. A CT scan was performed which raised concern for a possible connection between your intestines and skin (enterocutaneous fistula). You were placed on bowel rest and received nutrition through IV (TPN) while additional tests were done. A charcoal test ruled out a fistula, and your symptoms were thought to be related to an abdominal wall fluid collection. Your condition steadily improved during your stay.
+
+Your diet was gradually advanced from nothing by mouth to a full regular diet, which you tolerated well. You continued on TPN for nutritional support and were instructed to cycle it overnight. You were evaluated by the hepatology team for autoimmune hepatitis and were advised to remain on your current medication (mercaptopurine) while tapering prednisone to 10 mg daily. You were closely monitored for signs of infection or blood clots, and none were found. A minor issue in your leg was evaluated with an ultrasound, which ruled out a serious blood clot.By the time of discharge, you were afebrile, eating normally, moving around independently, and your pain was well controlled. You received instructions regarding your medications, TPN care, and follow-up appointments. You understood the discharge plan and agreed with the recommendations. Continued outpatient care, including TPN and follow-up with your specialists, will be important to your recovery.
+
+
+ 51:
+
+Comment - 
+
+You were admitted to the hospital with fevers and a urinary tract infection that had entered your bloodstream. This was caused by E. coli, and you were started on IV antibiotics. Your symptoms gradually improved with treatment, and once your blood cultures were negative and you were fever-free for more than 48 hours, you were transitioned to oral antibiotics. You were discharged with instructions to complete a two-week course of antibiotics.
+
+During your hospitalization, you developed a rash and an increase in a type of white blood cell called eosinophils. This reaction was likely related to antibiotic use. The antibiotics were changed, and you were started on a short course of steroids to reduce the inflammation. Because you have a history of a stem cell transplant, there was also concern that this could represent early Graft Versus Host Disease (GVHD), although no clear signs were found at that time.You remained stable throughout your stay, and your heart function was evaluated due to a history of chemotherapy. No new heart issues were identified. You were discharged on a steroid taper with instructions to watch for any new signs of GVHD, including diarrhea or right-sided abdominal pain. Your immunosuppressive medications and labs were continued without the need for transfusion.
+
+
+ 52:
+
+Comment - 
+
+You were admitted after reporting blood with your bowel movements. You described both bright red blood and darker stools, which can suggest bleeding in the gastrointestinal tract. During your hospital stay, your blood counts remained stable and no transfusions were required. While the exact source of bleeding wasn't identified during your admission, you were scheduled for outpatient upper and lower endoscopy to further investigate the cause.
+
+Your doctors noted that your recent use of NSAIDs (like ibuprofen) may have contributed to the bleeding, especially given your risk for upper GI bleeding. You were advised to stop using NSAIDs, and a medication called omeprazole was started to protect your stomach. You also have cirrhosis, but based on your history and the current presentation, this was not believed to be a variceal bleed. You have chronic neuropathy, which had been previously treated with gabapentin and NSAIDs. Since NSAIDs were stopped, clonazepam was restarted to help manage your symptoms. Your diabetes medications were continued during the stay. You were discharged in stable condition with instructions to follow up with GI for your procedures and to return to the hospital if your bleeding worsens or if you develop any concerning symptoms such as dizziness or chest pain.
+
+
+ 53:
+
+Comment - 
+
+You were admitted with cough and shortness of breath and were diagnosed with influenza B and an asthma exacerbation. You were treated with a course of antiviral medication (oseltamivir), steroids (prednisone), and breathing treatments. A chest X-ray showed no signs of pneumonia. Your symptoms improved gradually with treatment. During your hospital stay, your prednisone was tapered, and you developed high blood sugar due to the steroids.
+
+To manage your blood sugar while on prednisone, you were started on insulin therapy. You were given specific instructions for adjusting insulin doses based on your steroid taper: 20 units of NPH insulin daily and sliding scale insulin while on 40 mg prednisone; 10 units of NPH while on 20 mg; and sliding scale only while on 10 mg. You also received education on insulin use and diabetes management before discharge.An irregular heart rhythm called atrial fibrillation was discovered on monitoring, although you had no symptoms. Your heart rate was stable, and you spontaneously returned to a normal rhythm. An echocardiogram showed no structural heart problems. Given your stroke risk factors (diabetes, hypertension, female sex), you were started on a blood thinner called rivaroxaban to reduce the risk of stroke. You were advised to stop taking hydrochlorothiazide temporarily due to low blood pressure noted during your hospital stay.
+
+
+ 54:
+
+Comment - 
+
+You were transferred to our hospital after being involved in a rollover motor vehicle accident. Imaging showed that you sustained a compression fracture in one of the vertebrae in your lower back (L2). You were evaluated by the neurosurgery team, who determined that you do not need surgery or a back brace. The injury is expected to heal on its own with conservative management.
+
+While you were in the hospital, you were started on oral pain medications, which helped control your pain. You were also evaluated by physical therapy and cleared for discharge with outpatient rehabilitation. You were educated on how to care for your injury, including following spinal precautions and monitoring for signs of concussion.At the time of discharge, you were eating well, moving independently, and urinating without difficulty. You were provided with a prescription for physical therapy and instructed to follow up with your primary care doctor. You received detailed discharge instructions and expressed understanding of your care plan.
+
+
+ 55:
+
+Comment - 
+
+You came into the hospital for low blood sodium (hyponatremia) that occurred as a result of dehydration. Your sodium levels improved after you were given fluids. You were discharged with a sodium level of 132. During this hospitalization you also expressed concerns about your tiredness and ongoing cough. We believe these are a result of your recent pneumonia. Oftentimes, after an infection like pneumonia, it can take a few weeks for you to start feeling like you're back to normal. Please make sure you are drinking at least 1.5–2 liters of fluid (preferably nonsugary beverages) each day. Please recheck sodium levels at your follow-up appointment.
+
+You were admitted due to low sodium levels caused by dehydration, which improved with IV and oral fluids. You were not experiencing symptoms such as confusion or seizures. At discharge, your sodium had returned to a stable range. You were also recovering from a recent pneumonia, and your ongoing cough and fatigue are likely related to this. Your cough improved with inhalers, guaifenesin, and cough suppressants.Your chronic conditions—diabetes, hypertension, and rheumatoid arthritis—were managed during your stay. Some medications were temporarily held but resumed prior to discharge. You were advised to continue your home medications, drink adequate fluids daily, and follow up with your primary care provider for lab checks and continued care.
+
+
+ 56:
+
+Comment - 
+
+You were admitted for evaluation of urine leakage from your previous nephrostomy site. A new nephrostomy tube was successfully placed, and the leaking tract was closed. The fluid was confirmed to be urine, and no signs of infection were present. You also had significant abdominal swelling, and 3.5 liters of fluid were removed during a paracentesis. Testing confirmed the fluid was related to your known metastatic prostate cancer. Your pain was managed effectively with oxycontin, and you tolerated treatment well.
+
+You received your first dose of chemotherapy (cabazitaxel) during this admission. Plans were made for follow-up in the clinic to receive Neulasta, and you will need outpatient labs to monitor kidney function. You were discharged on long-acting and as-needed pain medications, and your blood pressure medications were adjusted. Your ongoing symptoms, including fatigue and nausea, were managed conservatively. Given your advanced cancer, continued coordination with your oncology team will be important.
+
+
+ 57:
+
+Comment - 
+
+You were admitted for evaluation of swelling in your right leg. Imaging showed a deep vein blood clot (DVT) in the right common femoral vein, caused by pressure from a nearby fluid collection (abscess). You were started on a heparin drip and later transitioned to Lovenox injections, which you will continue for three months. The abscess was drained by a radiologist, and a pigtail catheter was placed to allow continued drainage. A sample from the abscess tested positive for a bacterial infection (group B strep), and your antibiotics were adjusted accordingly.
+
+You will continue IV antibiotics (ertapenem) at home through a PICC line, and the infectious disease team will determine the length of treatment and when to switch to oral antibiotics. You will also follow up on when the pigtail catheter can be removed. Tests showed no cancer cells in the fluid. Multiple specialists were involved in your care, and while there was discussion of placing a filter in a vein to prevent future clots from traveling to the lungs, this was ultimately not pursued. You were involved in this decision and agreed with the plan. Follow-up imaging will help guide the next steps.
+
+
+ 58:
+
+Comment - 
+
+You were admitted for evaluation of abnormal movements involving your face, arms, and legs. Brain imaging showed changes in a region called the thalamus, which may explain your symptoms. A thorough workup was done, including a spinal tap and blood tests, but so far no clear cause has been identified. Your B12 level was slightly low and you were started on oral B12 supplements. Your movements improved during your stay and had resolved by the time of discharge.
+
+You also had very high blood pressure during your hospitalization, and a new medication called Imdur (isosorbide) was added to help control it. You were advised to monitor your blood pressure twice a day and notify your doctor if your top number goes over 180. Some lab results are still pending and should be followed up with your primary care provider or neurologist after discharge.
+
+
+ 59:
+
+Comment - 
+
+You were admitted for evaluation of fever, high blood pressure, and a fast heart rate. You were found to likely have a urinary tract infection and were started on antibiotics, which helped resolve your symptoms. Imaging and blood tests ruled out more serious causes such as a blood clot or abdominal infection. Your heart rate was also elevated, but no clear cause was found, and it improved after starting a medication called metoprolol.
+
+Your blood pressure was high on arrival and improved with the addition of new medications. You were discharged on a combination of Amlodipine, Altace, and Metoprolol. You also had abnormal facial and tongue movements before coming in, which may be related to an older medication (Perphenazine) that you have recently stopped. These movements improved during your stay. You were advised to follow up with your primary doctor for further evaluation, including potential referral to psychiatry for continued care of your underlying schizophrenia.
+
+
+ 60:
+
+Comment - 
+
+You were admitted with abdominal pain and diarrhea, and we were initially concerned about a possible C. difficile infection. You were started on antibiotics and had a CT scan, which did not show any signs of infection or inflammation. Eventually, we were able to collect a stool sample that came back negative for C. diff, and your antibiotics were stopped. You improved with supportive care, including IV fluids and pain management.
+
+During your stay, we reviewed your medication history and found that you had received many prescriptions for narcotic medications from multiple providers. You also tested negative for some of the medications you reported using. After discussing this with you, we recommended that future providers be cautious with prescribing controlled substances unless there is clear medical necessity. You were advised to follow up with your bariatric surgeon regarding your abdominal symptoms.
+
+
+ 61:
+
+Comment - 
+
+You were admitted to the hospital for seizures. Your anti-seizure medication was adjusted, and you remained free of seizures for the rest of your stay. Imaging showed two small strokes likely caused by your atrial fibrillation. These were not thought to be the cause of your seizures. 
+
+You also developed pneumonia, which delayed removal of your breathing tube, but this improved with antibiotics. You were discharged on a blood thinner and set up with home physical therapy. You will need 24-hour assistance while recovering. Please follow up with your oncologist for monitoring of your known lymphoma.
+
+
+ 62:
+
+Comment - 
+
+You were admitted with an infection under a previous surgical incision. A drain was placed by Interventional Radiology and you were treated with IV antibiotics while awaiting culture results.
+
+The infection was found to be caused by bacteria sensitive to Bactrim, which you were prescribed to continue at home. You were stable and tolerating food at discharge, with instructions for drain care and signs of infection to watch for.
+
+
+ 63:
+
+Comment - 
+
+You were admitted with fever, nausea, and vomiting, which were believed to be due to a viral illness. Imaging studies including chest X-ray, abdominal CT, and head CT did not show a clear source of infection. You were monitored off antibiotics and improved. An MRI of your head showed enlarged ventricles but no evidence of increased pressure or metastatic disease. You were also found to have high blood pressure, for which you were started on lisinopril. A biopsy of a possible metastatic shoulder mass was rescheduled for next week.
+
+You came to the hospital feeling unwell with fever, nausea, and vomiting. Tests suggested a viral cause, and your symptoms improved without needing antibiotics. Imaging showed some chronic brain changes but no signs of cancer or fluid buildup. Your blood pressure was high, so you were started on a new medication called lisinopril. You also have a shoulder mass that may be related to your esophageal cancer, and your biopsy is now scheduled for next week.
+
+
+ 64:
+
+Comment - 
+
+You were admitted with persistent low back pain. Imaging showed that your previous spinal infection (discitis/osteomyelitis) had improved, but also revealed active multiple sclerosis. Your pain was treated with gabapentin, naproxen, and a short supply of low-dose oxycodone. You also received IV steroids to address MS-related inflammation. You declined inpatient rehab but will continue IV antibiotics at home and follow up with your care team.
+
+You came to the hospital for worsening back pain. Imaging showed your spinal infection is improving, but your multiple sclerosis remains active. We managed your pain and gave a short course of steroids. You chose to recover at home with IV antibiotics instead of going to rehab.
+
+
+ 65:
+
+Comment - 
+
+You were admitted for spine surgery and underwent a lumbar fusion procedure. Initially, your recovery was going well, but on day 5 you developed abdominal distension and nausea. Imaging revealed a small bowel obstruction related to a hernia at your previous surgical site. You also had a blood clot in your lung. You returned to the OR for hernia repair with mesh and placement of an IVC filter to prevent further clots. Your pain, diet, and mobility improved, and you were discharged in stable condition.
+
+You had spine surgery followed by complications including a bowel obstruction and a blood clot in your lung. These were treated with additional surgery and an IVC filter. You recovered well with stable vitals, resumed a normal diet, and were able to walk with assistance at discharge.
+
+
+ 66:
+
+Comment - 
+
+You were admitted after undergoing a procedure to internalize your biliary drain, which had been placed due to bile duct blockage from pancreatic cancer. Imaging confirmed that the drain was working properly. You tolerated the procedure well, resumed eating without issues, and your abdominal pain was managed with oral medications. Your urine output decreased briefly but improved after fluids and a temporary catheter.
+
+You had your external biliary drain converted to an internal one to help bile flow properly into your digestive tract. Your recovery went smoothly, your pain was controlled, and you were able to eat and urinate normally before discharge.
+
+
+ 67:
+
+Comment - 
+
+You came to the hospital with a heart attack and were found to have a new blockage in one of your coronary bypass grafts. A stent was placed to open the blockage. You initially needed support with medications and a balloon pump for your heart, but your condition improved, and these supports were weaned. You also had temporary kidney dysfunction and anemia, both of which improved by discharge. You were discharged on medications including aspirin, Plavix, and statins.
+
+You had a heart attack due to a blocked bypass graft, which was treated with a stent. You needed temporary heart support but improved steadily. Your kidney function and blood counts stabilized before discharge, and you were restarted on your heart medications. You’ll need a follow-up echocardiogram in three months to reassess heart function.
+
+
+ 68:
+
+Comment - 
+
+You were admitted with abdominal pain, painful swallowing, and a brief episode of low oxygen. Your endoscopy showed no clear infection, and your oxygen levels returned to normal after treatment. The abdominal pain was likely related to liver inflammation and improved with medications. No concerning findings were noted on your neurologic exam, and your oxygen was weaned off before discharge.
+
+You came in feeling unwell with abdominal pain and trouble swallowing. Tests showed no signs of infection, and your oxygen levels improved quickly. Your pain was managed, and you were discharged in stable condition with instructions to follow up with your providers for any ongoing symptoms or test results.
+
+
+ 69:
+
+Comment - 
+
+You were admitted with balance issues, double vision, and slurred speech. Imaging showed no clear stroke but did reveal that one of the arteries supplying your brain (the right vertebral artery) is blocked. We believe this reduced blood flow is causing your symptoms. You were started on a blood thinner (coumadin) and will need to have your INR checked regularly to ensure it’s in a safe range. You will take coumadin for 3 months and then switch to full-dose aspirin.
+
+Although your MRI didn’t show a stroke, you were diagnosed with flow-related ischemia due to a blocked artery. You improved during your hospital stay, and we expect further recovery. Follow-up for blood thinner monitoring and risk factor control is essential to prevent future events.
+
+
+ 70:
+
+Comment - 
+
+You were admitted with bleeding from your left groin, which was concerning due to your surgical history involving a vascular graft and amputation. You were taken to the operating room, where the bleeding graft remnant was oversewn, and a muscle flap was placed to help protect the area. A wound vacuum was also applied. Cultures were taken and you were started on IV antibiotics based on the results. You will continue IV ertapenem for six weeks, followed by long-term oral antibiotics.
+
+You had prior vascular surgeries including a failed graft and left leg amputation. This admission was due to bleeding from your groin where an infected graft remnant was found. Surgery was successful, and you were discharged to rehab on IV antibiotics with a wound vac to help with healing. You’ll follow up with infectious disease and vascular surgery.
+
+
+ 71:
+
+Comment - 
+
+You were hospitalized with progressive weakness, numbness, and incontinence, and were found to have lumbar disc herniation with nerve root compression. Imaging raised concern for inflammation of the nerves (cauda equina enhancement), and you underwent extensive testing. During a spinal tap, you developed an epidural hematoma that required surgery to relieve pressure on the spinal cord. Your symptoms improved following this procedure. You were also found to have blood clots in your legs and lungs and were started on a blood thinner.
+
+During your stay, an IVC filter was placed to prevent future blood clots from traveling to your lungs while your blood thinner was held for surgery. You later restarted Apixaban. You’ll follow up with neurosurgery and neurology, and your IVC filter will be removed in about 6 months. Blood thinners are planned for a few months due to your recent immobility.
+
+
+ 72:
+
+Comment - 
+
+You were admitted after developing a blood clot in your left arm, likely related to the PICC line placed for IV antibiotics to treat disseminated Lyme disease. The PICC line was removed, and a new line was placed in your right arm. You were started on blood thinners (Lovenox and warfarin) and will need to continue these for about 3 months, with regular INR monitoring to ensure your blood is appropriately thinned.
+
+You’re continuing IV antibiotics through your new line to complete the Lyme treatment. Your facial symptoms have been improving, though some weakness remains. You also experienced some constipation during your stay and were started on a stool softener. Please follow up with your PCP for blood work and with your infectious disease doctor for the remainder of your Lyme care.
+
+
+ 73:
+
+Comment - 
+
+You were admitted with worsening shortness of breath and increased oxygen needs. Imaging showed changes suggestive of pneumonia, so you were initially started on antibiotics, but they were stopped once you improved and tests did not confirm infection. You also completed a 7-day course of antibiotics for a known urinary tract infection. A blood culture initially grew bacteria from your PICC line, but repeat cultures were negative and you remained without signs of infection, so the line was removed out of caution.
+
+You also have chronic spinal cord-related weakness and breathing issues that make clearing secretions difficult. Chest physiotherapy helped improve your symptoms. A follow-up scan showed lymph node changes in your chest that radiology recommends monitoring with either an MRI or repeat CT in a few months. You were discharged in stable condition on your usual medications and will follow up with your primary and pain care teams.
+
+
+ 74:
+
+Comment - 
+
+You were admitted with a bladder infection and dehydration. We gave you antibiotics and intravenous fluids. You are being discharged on a 7-day course of an oral antibiotic. Also, the level of your blood-thinning medication (warfarin) was elevated. We held this medication in the hospital and gave you vitamin K to help bring your levels down. Your INR improved before discharge. A follow-up INR check is scheduled after discharge, and the results should be sent to your doctor.
+
+You came to the hospital feeling weak, dehydrated, and were found to have a urinary tract infection. After treatment with fluids and antibiotics, your kidney function improved. Your blood thinner levels were too high, so we temporarily stopped the medication and gave vitamin K. You'll need to have your INR level checked at home and reviewed with your doctor before restarting war
+
+
+ 75:
+
+Comment - 
+
+You were admitted to the hospital for hallucinations. These were likely due to hepatic encephalopathy, a complication of liver disease. You were treated with lactulose and rifaximin, and your symptoms resolved by the second day. Your liver ultrasound showed that your TIPS is working properly. You were also found to have a temporary increase in your lipase and anion gap, both of which resolved during your stay. Nadolol was discontinued.
+
+You came in with hallucinations and were diagnosed with a mild form of hepatic encephalopathy, which improved with treatment. It is important that you continue taking lactulose and rifaximin daily. Take enough lactulose to have two to three bowel movements per day. Do not drink alcohol, and do not drive until your liver doctor says it is safe.
+
+
+ 76:
+
+Comment - 
+
+You were admitted with bloody diarrhea and chronic iron deficiency anemia. The diarrhea resolved during your hospital stay. A colonoscopy was done, which showed signs of colitis; biopsy results were pending at discharge. You were continued on mesalamine. You tolerated oral intake before discharge and were advised to follow up with your PCP and GI doctor within a few weeks.
+
+You came to the hospital with blood in your stool and anemia. Your symptoms improved, and testing showed inflammation in your colon. You are going home on mesalamine for this and have been started on iron pills to treat your anemia. Please follow up with your doctors soon to go over biopsy results and check your blood counts again.
+
+
+ 77:
+
+Comment - 
+
+You were admitted after an episode of unresponsiveness and confusion following a fall at your rehab facility. A CT scan of your head showed no evidence of bleeding. Although there was initial concern for a seizure, further testing, including an EEG, did not confirm a seizure. Your symptoms improved during your stay, and your neurologist recommended against starting anti-seizure medication. You were discharged back to rehab for continued recovery.
+
+You were brought to the hospital because you became confused and unresponsive after a fall. Tests showed no brain bleeding, and your doctors ruled out a seizure after further evaluation. You began to feel better and were cleared to return to rehab. You will not need to start seizure medication but should follow up with your neurologist to review your test results.
+
+
+ 78:
+
+Comment - 
+
+You were admitted to the hospital with worsening abdominal and leg pain, likely related to your multiple sclerosis. Your pain medications were adjusted, and your appetite and bowel movements remained normal. A gallstone was found on imaging, but it was not thought to be the cause of your symptoms. Your liver enzyme levels were elevated, possibly due to recent changes in your medications. These levels improved while you were in the hospital and will need to be monitored after discharge.
+
+You came to the hospital with abdominal and leg pain. After testing, we didn’t find a clear reason for the pain, but we made changes to your medications to help manage it. We also noticed your liver tests were high, likely due to your medications, and these will need to be followed up. You’ll need to follow up with your pain doctor to talk about possibly adjusting your baclofen pump and continue other planned appointments.
+
+
+ 79:
+
+Comment - 
+
+You were admitted to the hospital after a motorcycle accident caused an open fracture in your left foot. You had surgery to repair the broken bone and a wound vacuum was placed to help the wound heal. You received antibiotics to prevent infection and had a second procedure to close the wound. OB was involved in your care due to your pregnancy and recommended appropriate steps. Your pain was managed, and you were cleared for discharge.
+
+You were hospitalized after a foot injury from a motorcycle accident. Surgeons repaired the fracture and used a wound vac to help the wound heal. A second surgery was done to close the wound. Your pregnancy was monitored and care coordinated with OB. You’re being discharged with pain medication and instructions to avoid putting weight on your left foot.
+
+
+ 80:
+
+Comment - 
+
+You were admitted to the hospital after an unwitnessed fall. A CT scan of your head did not show any bleeding. We did not find signs of a heart attack, and your brief heart rhythm abnormality (NSVT) did not cause symptoms. Your initial confusion likely stemmed from sleep deprivation but resolved by the next day. Blood work showed your INR (a blood thinning level) was too high due to your Coumadin, so we held this medication. It should be restarted based on your outpatient provider’s advice after a recheck.
+
+You were hospitalized after a fall, but scans showed no serious injuries or signs of a heart attack. Your brief abnormal heart rhythm wasn’t concerning, and your thinking improved quickly. Your blood thinner level (INR) was too high, so Coumadin was paused. You should have your INR rechecked after discharge and follow up with your doctor before restarting it.
+
+
+ 81:
+
+Comment - 
+
+You were admitted to the hospital after a seizure and confusion. We believe the seizure may have been triggered by a urinary tract infection or related to your prior stroke. You were treated with antibiotics for the infection and monitored for further seizures using a 24-hour EEG, which did not show ongoing seizure activity. Your confusion improved, and you were discharged on a seizure medication called Keppra, which you should continue taking until your follow-up neurology visit.
+
+You came in with a seizure and confusion, possibly caused by a urinary infection or your past stroke. We treated the infection and watched your brain activity with an EEG, which showed no more seizures. You began a new medication, Keppra, to prevent future seizures. You were also feeling confused, which got better before you left the hospital.
+
+
+ 82:
+
+Comment - 
+
+You were admitted with chest pain and cough and were treated again for pneumonia likely caused by food or liquid entering your lungs (aspiration). You received 10 days of Cefepime and Flagyl. The speech and swallow team recommended a special diet to reduce the risk of this happening again, but you declined to follow this plan. You also had a left wrist injury that was casted, but you requested the cast be removed due to discomfort. A splint was made instead. It is very important that you follow up with the hand clinic in the next 4 weeks.
+
+You came to the hospital because of chest pain and worsening cough, and you were treated for another episode of aspiration pneumonia. You declined the recommended diet to prevent this from happening again. You were also treated for a wrist injury with a splint after you asked to remove the cast. Please make sure to attend your hand clinic appointment within 4 weeks.
+
+
+ 83:
+
+Comment - 
+
+You were admitted to the hospital with three seizures in one day. A spinal tap (lumbar puncture) was done, and the results did not show evidence of bacterial meningitis. Your symptoms, including chills and neck stiffness, were evaluated, and initial antibiotics were discontinued after your spinal fluid studies came back negative. An MRI of your brain was performed and was normal. You were prescribed an Ativan taper and your seizure medications were continued and adjusted.
+
+You had three seizures in a day, which led to your hospitalization. Tests showed no infection in your spinal fluid, and your brain MRI was normal. You’re now on adjusted doses of Trileptal and Zonegran to help control seizures. You’ll also take Ativan for a few more days in decreasing doses before stopping. Please make sure to follow up with your doctor as planned.
+
+
+ 84:
+
+Comment - 
+
+You were admitted with pain, swelling, and redness in your right leg. Imaging showed worsening blood clots, which are likely the cause of your symptoms and a brief fever. Because you recently had bleeding in your brain, we cannot safely give you blood thinners to treat the clots. You already have an IVC filter in place. You were evaluated by the vascular surgery team, and they recommended managing this conservatively with leg elevation and compression wraps. No infection was found, so no antibiotics were continued.
+
+Your bloodwork also showed mild anemia, which we will continue to monitor. Please have a follow-up blood count in a week. We have also sent blood cultures, and your care team will follow up on the results.
+
+
+ 85:
+
+Comment - 
+
+You were admitted with fatigue and dark stools, and were found to have a low red blood cell count. You received several blood transfusions and an endoscopy showed a stomach ulcer, but no active bleeding. You were started on pantoprazole (a stomach acid medication), and your blood counts remained stable. We tested for H. pylori, a bacteria that can cause ulcers, and it was negative. Your blood thinner medications (aspirin and plavix) were initially stopped; aspirin was restarted at a lower dose, and plavix was not continued since you completed the recommended course after your recent heart stent.
+
+You came to the hospital feeling weak, and we found that you had been losing blood through your stool. We gave you blood transfusions and found a stomach ulcer on your endoscopy. Thankfully, it wasn't bleeding anymore. You started a medication called pantoprazole for ulcer healing. You were taking blood thinners after your heart stent, but we stopped them temporarily—you're now only continuing baby aspirin. Please follow up with your doctor and gastroenterologist for a repeat scope in a couple of months.
+
+
+ 86:
+
+Comment - 
+
+You were admitted to the hospital for low oxygen levels, difficulty breathing, and a COPD flare-up, which was complicated by pneumonia. You were intubated twice and treated with antibiotics, steroids, and breathing treatments. We found bacteria in your lungs and urine and treated both infections. After significant improvement, you were weaned off the ventilator and continued on oxygen through nasal cannula. Your kidney function also temporarily worsened during your stay but returned to normal with fluids. We recommend following up with your primary care provider for a steroid taper and continued pulmonary care.
+
+You came in struggling to breathe and needed to be placed on a ventilator due to a COPD flare and infection in your lungs. You were treated with medications and were eventually able to breathe on your own again. You also had a urinary infection that we treated with antibiotics. Your kidney function dropped slightly but got better with fluids. You’re now breathing well on low-flow oxygen and ready to go home. Please follow up with your doctor for medication adjustments and continued recovery.
+
+
+ 87:
+
+Comment - 
+
+You came to the hospital for a procedure to replace your aortic valve (TAVR), which was successfully completed. After the procedure, you experienced some internal bleeding near the groin area that caused your blood pressure to drop and your blood count to fall. You were treated with IV fluids, medications to support your blood pressure, and received blood transfusions. A scan confirmed a hematoma, but vascular surgery did not feel you needed any surgery for it. Your blood pressure and hemoglobin stabilized, and no additional blood transfusions were needed. You developed a new heart rhythm issue called left bundle branch block (LBBB), which we monitored closely during your stay. You are being discharged with a heart rhythm monitor and instructions to restart some of your home medications.
+
+You were admitted for a heart valve procedure that went well. Afterwards, you had some bleeding in your belly that lowered your blood pressure and blood count, but this improved with fluids, medications, and blood transfusions. No surgery was needed for the bleeding. Your heart rhythm changed slightly after the procedure, and we kept a close eye on it. You're going home with a monitor to track your heart rhythm and will restart your medications at your follow-up appointments.
+
+
+ 88:
+
+Comment - 
+
+You were admitted to the hospital with chest pain that initially raised concern for a heart problem. Your blood test showed a small elevation in troponin, but your EKG was normal. You underwent an echocardiogram which showed mild aortic stenosis and a normal heart function. A stress test showed no signs of poor blood flow to your heart. Based on these results, we believe your chest pain was not caused by your heart. You remained chest pain free during your hospital stay and were discharged without any changes to your medications.
+
+You came to the hospital with chest pain, but testing showed that your heart was not the cause. Your ultrasound and stress test results were reassuring. You also had some right leg pain during your stay, which we think is related to your history of vein issues. We recommend using warm compresses and Tylenol or ibuprofen for relief. Please follow up with your primary doctor and GI specialist to continue evaluating any other possible causes of your symptoms.
+
+
+ 89:
+
+Comment - 
+
+You were admitted to the hospital for chest pain similar to your prior episode. Your heart tests, including blood markers, EKG, and a nuclear stress test, showed no signs of a heart attack or poor blood flow. We believe your symptoms are likely due to gastrointestinal causes like reflux or esophageal spasms, or possibly small vessel disease. You were started on an H2 blocker and recommended to follow up with your primary doctor for an outpatient endoscopy.
+
+You came in with chest pain, but tests ruled out a heart attack. The likely cause of your pain may be related to your esophagus or small blood vessels in the heart. You were also found to have mild kidney issues that improved with fluids and a urinary infection that did not need treatment because you had no symptoms. Please follow up with your primary care doctor for further evaluation of your stomach and to monitor your kidney function.
+
+
+ 90:
+
+Comment - 
+
+You were admitted with abdominal pain during your pregnancy and found to have a perforated appendix. You had a laparoscopic appendectomy and drainage of an abscess. After surgery, you were monitored closely, including your baby’s heart rate, which remained normal. Because your bowels were dilated from the infection, you were kept from eating for a short time and then slowly resumed a normal diet. You received antibiotics through your IV and are now being sent home with an oral antibiotic.
+
+You had your appendix removed after a scan showed it was infected and had burst. Your recovery went well, and you gradually returned to eating and walking around. Your pain is now controlled with pills, and you will finish your antibiotics at home. Your baby’s heart rate was checked regularly and remained healthy throughout your stay.
+
+
+ 91:
+
+Comment - 
+
+You came to the emergency room with left-sided flank pain and had a severe allergic reaction to the contrast dye used for your CT scan. This caused low blood pressure, difficulty breathing, and stress to your heart and lungs. You were treated in the ICU and later moved to a regular floor. While recovering, you were given Compazine for nausea and developed a reaction that caused your jaw to lock shut. It took several days of medications and physical assistance to release it. Later during your stay, you had symptoms like blurry vision, difficulty using your hand, and your foot turning inward—signs of a flare of your multiple sclerosis. An MRI confirmed this, and you were treated with IV steroids.
+
+You were admitted after a serious allergic reaction during a CT scan. You spent time in the ICU, then continued recovery on the medical floor. You developed a locked jaw from a medication side effect, which required several treatments to resolve. You also had a flare of your multiple sclerosis, which was confirmed with imaging and treated with IV steroids. You're now recovering and
+
+
+ 92:
+
+Comment - 
+
+You were transferred from another hospital for evaluation of your large abdominal hernia and ongoing treatment for your COPD. Your COPD symptoms had already improved before you arrived, and we completed your course of antibiotics. Your home oxygen and medication plan were reviewed and adjusted to match what your lung specialist last recommended. You continued to do well and were discharged on this regimen. Regarding your hernia, you were not showing signs of bowel obstruction, and your hernia was soft and reducible. Given your other medical conditions, including heart disease and prior surgeries, surgery is not recommended. You may consider wearing a belly band for support and to reduce the chance of future bowel blockages.
+
+You came here from another hospital so we could look at your hernia and help with your breathing. You were already getting better from a flare-up of your COPD and continued to improve. Your oxygen and medicines were adjusted based on your lung doctor’s previous plan. As for your hernia, you were not having any pain or blockage, and the hernia was soft. Because of your heart and lung conditions, surgery is not safe, but you can use a support band (belly band) to help prevent problems in the future.
+
+
+ 93:
+
+Comment - 
+
+You were admitted with severe heart failure and low blood pressure caused by advanced narrowing of your aortic valve and poor heart function. You received medications to stabilize your condition and underwent a transcatheter aortic valve replacement (TAVR). You were also diagnosed with diabetes and started on insulin. During your stay, a fluid collection on your foot—determined to be a hematoma—was drained. You resumed a blood thinner (Warfarin) for atrial fibrillation and a heart clot. You are now stable and were discharged with a medication plan and follow-up instructions.
+
+You were admitted with severe heart failure and low blood pressure. A procedure called TAVR was performed to replace your narrowed heart valve. You started insulin for newly diagnosed diabetes, and a pocket of fluid in your foot was drained. You were restarted on blood thinners for your irregular heart rhythm and a clot. Please weigh yourself daily and follow up with your doctors.
+
+
+ 94:
+
+Comment - 
+
+You were admitted with abdominal pain and found to have an infection in your bloodstream and urine, as well as a blockage in your bile duct. This was treated with IV antibiotics and a procedure called ERCP to replace your bile duct stent. You’ll need another ERCP in about 4 weeks—if the GI doctors haven’t contacted you by next week, please call their office to schedule. We also changed your anxiety medication from Xanax to Ativan, to be used only when needed. You will complete your course of antibiotics while in rehab.
+
+You came in with belly pain and were found to have a bile duct blockage and infections in your urine and blood. These were treated with antibiotics and a procedure to clear the blockage. You’ll need a repeat procedure in a few weeks. Your anxiety medication was changed to Ativan as needed. You’ll finish your antibiotics at the rehab center.
+
+
+ 95:
+
+Comment - 
+
+You came to the hospital because of pain in your upper right abdomen, nausea, and vomiting. Tests showed you have gallstones, but no sign of infection or blockage. A special scan of your gallbladder (HIDA) was also normal. That means your gallstones likely aren’t the cause of your symptoms. You were encouraged to eat small, frequent meals and take anti-nausea medication before eating if needed. You were also on IV nutrition (TPN), but since your labs looked good, your team may consider stopping it as an outpatient.
+
+You also have a complex history of chronic pain and illness, and were seen by the pain management team during your stay. You received a ketamine infusion, which helped reduce your pain and the need for additional pain medications. Your fentanyl patch dose was reduced to 150mcg every 72 hours, and your oral dilaudid dose was adjusted to help slowly taper down your narcotic use. You’ll follow up with your primary care doctor to continue this plan.
+
+
+ 96:
+
+Comment - 
+
+You were admitted with a severe urinary tract infection (urosepsis) due to a kidney stone that was blocking urine flow. A tube called a percutaneous nephrostomy (PCN) was placed to drain your kidney, which helped your kidney function return to normal. You were treated with antibiotics for infections caused by E. coli and Proteus, and you’ll continue with follow-up to eventually remove the stone.
+
+During your stay, you were also confused and very sleepy, likely due to infection and your underlying psychiatric condition. The psychiatry team helped guide your medication adjustments. You’re being discharged on a revised psychiatric regimen, and it’s important to keep increasing your Clozaril dose as planned. Please follow up with interventional radiology and urology for your kidney stone and PCN tube management.
+
+
+ 97:
+
+Comment - 
+
+You were admitted with pneumonia and chest pain, and testing showed some mild damage to your heart caused by stress from the infection. A heart catheterization had previously shown an occluded vessel, but cardiology determined no immediate procedure was needed. You were treated with antibiotics and your pneumonia improved. You also had a brief episode of fluid buildup in your lungs, which responded well to diuretics.
+
+We noted a small spot on your lung during your chest x-ray. It may be part of the infection, but we recommend following up with a repeat CT scan in 6 months to rule out anything more serious. Continue your antibiotics as prescribed and follow up with your primary care doctor to monitor your recovery.
+
+
+ 98:
+
+Comment - 
+
+You were admitted because your ostomy site appeared unhealthy, with dark, sloughing tissue. You had surgery to revise the stoma and did well afterward. Your diet was gradually restarted, and your pain was managed with oral medications. The ostomy nurse changed your appliance and reviewed care instructions with you. A piece of material called Surgicel was left inside to help stop bleeding; it should pass on its own once your ostomy starts working again.
+
+Your surgical incision was opened during the procedure due to tissue damage and is now being treated with daily dressing changes. Once you're back in your rehab facility, we recommend a wound vacuum dressing to help it heal. Please keep monitoring your stoma—it should look pink or
+
+
+ 99:
+
+Comment - 
+
+Mr. is a previously healthy man who presented with chest pain and was diagnosed with a STEMI, likely due to a thrombotic occlusion of the proximal left circumflex (LCx) artery. Cardiac catheterization revealed 2-vessel coronary artery disease: 40% mid and 60% distal stenosis in the LAD, 100% thrombotic occlusion in the proximal LCx, and 40% stenosis in the mid RCA. A successful percutaneous coronary intervention (PCI) with a drug-eluting stent (DES) was performed on the LCx via right radial access. Troponin levels peaked at 6.15. Echocardiogram showed a left ventricular ejection fraction of 50–55% with normal function. The patient was discharged on aspirin, Plavix, atorvastatin, lisinopril, and metoprolol. He denied chest pain or shortness of breath at discharge and felt back to baseline. Follow-up with cardiology and primary care was recommended, along with consideration for cardiac rehabilitation.
+
+You came to the hospital with chest pain and were found to have a heart attack caused by a blocked artery in your heart. A procedure was done to open up the blocked artery using a stent, which restored blood flow. Your heart function is stable, and you felt well at discharge with no more chest pain or shortness of breath. You’ve been started on medications to help protect your heart and prevent future problems. It’s important to follow up with your heart doctor and primary care provider, and you may benefit from a cardiac rehab program to support your recovery.
+
+
+ 100:
+
+Comment - 
+
+The patient has a history of esophageal cancer treated with esophagectomy and gastric pull-through, and presented with persistent vomiting. His feeding tube was found to be clogged on admission and was replaced, but vomiting continued. Initially, his emesis resembled tube feeds, then became bilious, and eventually tinged with blood. Extensive prior workups had ruled out structural obstruction. During this admission, GI and Surgery believed the vomiting was likely due to vagal nerve injury causing pyloric paralysis. Endoscopy revealed significant food burden in the neo-esophagus that could not be cleared endoscopically. A repeat procedure was scheduled, but the patient requested transfer for a second opinion. Speech and Swallow recommended NPO status due to aspiration risk, and he was maintained on tube feeds and IV fluids. He also developed aspiration pneumonia, treated with vancomycin and zosyn, with resolution of oxygen needs. A brief episode of delirium was managed with olanzapine. Anemia consistent with chronic disease and a transient metabolic alkalosis were also noted. His chronic conditions, including atrial fibrillation and GERD, remained stable. He was discharged in stable condition with feeding instructions, and follow-up was arranged.
+
+You came to the hospital because of frequent vomiting. Your feeding tube was replaced, but you continued to vomit. After testing, doctors believed this may be due to a nerve injury affecting your stomach’s ability to empty properly. An endoscopy showed a buildup of food, and a second procedure was planned, but you chose to transfer to another hospital for a second opinion. You were kept off solid foods and continued on tube feeds and IV fluids. During your stay, you also developed a lung infection caused by vomiting into your lungs. This was treated with antibiotics, and your breathing improved. Your blood counts and other chronic conditions were monitored, and you were stable when discharged.
+
+
+ 101:
+
+Comment - 
+
+The patient is a man with a history of hypertension and hyperlipidemia who presented with weakness and was found to be in atrial fibrillation with rapid ventricular response. He had a fall but did not lose consciousness or sustain injury. There were no clear triggers identified. His heart rate was controlled with IV metoprolol, but he spontaneously converted to normal sinus rhythm in the emergency department, with resolution of symptoms. His TSH and infectious workup were normal. He remained in sinus rhythm throughout his hospitalization. He had previously taken warfarin for a short time but was not on anticoagulation at admission. A recent echocardiogram showed normal function with mild valve regurgitation. He was advised to follow up with his cardiologist regarding starting anticoagulation and to continue metoprolol. His home medications for hypertension included metoprolol, losartan, and amlodipine. Amlodipine was discontinued during the admission due to normal blood pressures and prior hypotension. Nortriptyline for neuropathy was continued, and gabapentin was briefly reduced but resumed at his home dose. For insomnia, Ambien was used as needed after holding zaleplon.
+
+You came to the hospital because you were feeling weak and had a fast heartbeat. Tests showed you had an irregular heart rhythm called atrial fibrillation. You were given medication to slow your heart rate, but your heart returned to a normal rhythm on its own, and your symptoms improved. Your blood pressure was low before coming in but stayed normal while you were in the hospital, so one of your blood pressure medications, amlodipine, was stopped. You should continue taking metoprolol and follow up with your primary doctor and heart specialist. They will decide if you should start a blood thinner to help prevent future problems related to your heart rhythm.
+
+
+ 102:
+
+Comment - 
+
+The patient has metastatic pancreatic cancer and was on palliative FOLFOX chemotherapy when she was admitted with worsening abdominal pain. Imaging revealed persistent sigmoid colitis and a large bowel obstruction, likely caused by inflammation or cancer spread. She was treated with IV antibiotics, laxatives, and enemas, but without relief. Due to the high risk of perforation, GI did not recommend stenting, and she was no longer a candidate for chemotherapy given disease progression, including lung metastases. After discussions with multiple specialists and her family, she chose comfort-focused care and declined surgery. A palliative cecostomy tube was placed but provided limited symptom relief. She was discharged home with hospice care, on a Dilaudid PCA for pain management. Her chronic medications for diabetes, hypothyroidism, hyperlipidemia, and atrial fibrillation were discontinued. She remained NPO except for sips of fluid for comfort and had her code status confirmed as comfort measures only (CMO), DNR, and DNI.
+
+You were admitted because of severe abdominal pain, and testing showed that your pancreatic cancer has worsened and caused a blockage in your large intestine. You were treated with antibiotics and other medications, but the blockage did not improve. Because your condition is serious and continuing aggressive treatment would be risky and uncomfortable, you made the decision to focus on comfort and go home with hospice. A tube was placed in your belly to help relieve pressure from the blockage, but it did not bring much relief. Your hospice team will help manage any pain or symptoms you may have at home.
+
+
+ 103:
+
+Comment - 
+
+The patient was admitted to the epilepsy service for evaluation of seizure-like episodes. He underwent video EEG monitoring for six and a half days. Initially, his home medication, Keppra, was continued but then stopped to provoke and study events. No seizures occurred in the first 48 hours. He then experienced two events: the first involved oral automatisms, a cry, asymmetric tonic posturing starting in the right arm, followed by body shaking and a heart rate drop to 27. The second event included unresponsiveness and a heart rate drop to 30. EEG findings were consistent with right temporal seizure onset. A 2g Keppra bolus was given, and he was restarted on his home dose of 1g twice daily. No further seizures were observed. His prior outpatient dose of 250mg BID was subtherapeutic, and his current dose was maintained. Cardiology evaluated his bradycardia; a pacemaker was not recommended, and he has a loop recorder in place. Endocrinology adjusted his insulin pump settings for better glucose control. He was discharged on the new insulin pump schedule, with follow-ups arranged in epilepsy and endocrinology clinics.
+
+You were admitted so we could better understand the episodes you've been having, which were concerning for seizures. During your stay, we stopped your seizure medication briefly, and you had two episodes. These were confirmed as seizures based on your brain wave recordings and the symptoms you showed, including body stiffening, shaking, and lowered heart rate. We restarted your seizure medication at the proper dose, and you had no more seizures during the rest of your stay. Your blood sugar control was also reviewed, and your insulin pump settings were adjusted. For your safety, please do not drive, bathe, or swim alone, and avoid heights, as seizures can put you at risk of serious injury. Follow-up appointments have been arranged to monitor your progress.
+
+
+ 104:
+
+Comment - 
+
+The patient is a woman with a history of a focal right convexal subarachnoid hemorrhage, likely due to cerebral amyloid angiopathy, and new-onset focal seizures involving the left hand. She presented with two breakthrough episodes of left hand weakness and arm tingling. These episodes were thought to be focal sensorimotor seizures originating from the right precentral gyrus, near the site of her previous hemorrhage. A repeat head CT showed no new bleeding or abnormalities. Her Keppra dose was increased from 750mg to 1000mg twice daily, and she received an additional 500mg dose prior to discharge. Given her upcoming international travel, she was prescribed a short course of oxcarbazepine (Trileptal) 300mg twice daily to be used only if she has two or more additional events. Aspirin remains discontinued due to bleeding risk, and her blood pressure was stable throughout her stay.
+
+You were admitted because you had new episodes of weakness in your left hand and tingling in your left arm. These were believed to be seizures coming from the part of your brain that had a small bleed in the past. That bleed was likely caused by a condition called cerebral amyloid angiopathy. To help prevent future episodes, we increased your seizure medication, Keppra, to a higher dose. Since you are traveling soon, we also gave you a backup medication, Trileptal, which you should start only if you have two or more new episodes after leaving the hospital.
+
+
+ 105:
+
+Comment - 
+
+The patient was admitted for evaluation of abdominal, chest, and leg pain. He has a history of multiple visits for similar complaints, with prior workups suggesting the pain is chronic in nature. During this admission, a CT scan of the abdomen and pelvis and a chest X-ray revealed no new findings. Cardiac enzymes were negative, and EKG was unchanged, ruling out acute myocardial infarction. His pain improved with oxycodone and GI cocktail and was at baseline prior to discharge. His proton pump inhibitor was increased to twice daily. Follow-up with gastroenterology and a chronic pain specialist was recommended. The patient is morbidly obese, and weight loss was advised to help reduce chronic pain. He has chronic systolic heart failure with an EF of 40%, managed with a reduced dose of furosemide due to worsening renal function. Statin therapy was restarted. His coronary artery disease was medically managed due to chronic renal insufficiency and lack of acute findings. Hyponatremia was attributed to overdiuresis and improved with IV fluids. Creatinine was elevated but improved with hydration; close follow-up labs were arranged. Atrial fibrillation was rate-controlled, but warfarin was held due to a supratherapeutic INR. Blood pressure and diabetes medications were continued, with minor adjustments for gout management and ongoing treatment for depression.
+
+You came to the hospital because of pain in your abdomen, chest, and legs. After careful evaluation, no serious cause was found, and the pain was determined to be chronic. You did not have a heart attack, and your test results were stable. One of the most important things you can do for your health is to lose weight, as this could help relieve your chronic pain and improve your overall condition. Your stomach medication was adjusted, and you were advised to follow up with a stomach doctor and a pain specialist. You also have heart, kidney, and blood pressure issues that are being managed with medication, and your doctors have arranged for lab tests and follow-up visits to monitor your condition.
+
+
+ 106:
+
+Comment - 
+
+The patient was admitted for evaluation of a prolonged headache, consistent with her known history of migraines. Neurologic examination was normal, and a head CT showed no evidence of bleeding or other acute findings. She had no fever or elevated white count, and there was low suspicion for meningitis; the patient declined a lumbar puncture in the emergency department. The headache was initially treated with hydromorphone, but she preferred to avoid opioids. She responded well to ketorolac and Fioricet. For prevention, she was discharged with amitriptyline to take nightly, and frovatriptan was prescribed for acute migraine episodes. She was also treated for a urinary tract infection, confirmed by urinalysis, with a 3-day course of ciprofloxacin, started in the emergency department. Additionally, she reported atypical chest discomfort, but workup including EKG and cardiac enzymes was negative, and no cardiac concerns were identified during her stay.
+
+You were admitted because of a severe headache that matched your usual migraine pattern. Tests showed no serious cause, and your neurologic exam was normal. You were treated with pain medications that helped, and you were sent home with two prescriptions: one to help prevent future migraines (amitriptyline, taken every night) and one to take at the start of a migraine (frovatriptan). You also had a urinary tract infection, for which you were given an antibiotic called ciprofloxacin to complete at home. You had some chest discomfort, but tests showed your heart was normal. No other changes were made to your medications.
+
+
+ 107:
+
+Comment - 
+
+The patient is a right-handed woman with no significant past medical history who presented with a three-week history of migraine-like headaches following a recent viral throat infection. She had been evaluated in multiple emergency departments, where her neurologic exams were mostly normal except for mild optic disc changes. Initial imaging (MRI and MRV) was normal, and she was treated symptomatically. Due to a history of intermittent cocaine use, she was advised against triptans but was later prescribed sumatriptan, which did not help. Headaches persisted and were thought to be related to medication overuse, leading to a short steroid course. Upon her most recent ED visit, she had a fever and underwent a lumbar puncture, which showed a lymphocytic pleocytosis consistent with viral meningitis. She was started on empiric acyclovir for possible HSV, which was later discontinued after negative PCR results. Brain MRI remained normal. Her headaches improved with IV medications. She was discharged on amitriptyline 10 mg daily for prevention and advised to use ibuprofen or Excedrin only as needed. She was also counseled on lifestyle factors such as hydration, sleep, and stress reduction. Outpatient neurology follow-up was arranged.
+
+You were admitted for evaluation of headaches that had lasted about three weeks. Testing of your spinal fluid showed signs of inflammation, which was most likely from a virus. You were treated with IV medications for pain, and your symptoms improved. You were also started on a daily medication called amitriptyline to help prevent future migraines. It may take some time to work, and you could still get another headache while your body adjusts. If that happens, you can take ibuprofen at the start of the headache, but do not take it every day. All your tests for more serious causes, including a brain scan and infection screening, were negative. You were stable at discharge and should follow up with a neurologist.
+
+
+ 108:
+
+Comment - 
+
+The patient is a woman with a history of diabetes, hypertension, and high cholesterol who was sent to the emergency department by her primary care doctor after experiencing chest pain with left arm and shoulder numbness and weakness for two days. She initially felt some relief after receiving aspirin and nitroglycerin from her PCP. In the hospital, she was evaluated for possible heart issues. EKGs showed no abnormalities, and three sets of troponin levels were negative. A chest X-ray was normal. While admitted, her symptoms resolved. She underwent a stress EKG test and exercised for eight minutes with no chest pain or concerning changes on the heart monitor. Only two isolated irregular beats were seen, and her blood pressure and heart rate responded normally. With normal labs and a reassuring stress test, her chest pain was not believed to be due to a heart problem. She was discharged in stable condition.
+
+You came to the hospital with chest and shoulder pain that raised concerns about your heart. After careful testing, including heart enzyme labs and a stress test, there was no evidence of a heart attack or other heart problems. Your pain went away while you were in the hospital. It's possible your symptoms were related to fatigue or another non-cardiac issue. You were discharged feeling well, and your primary doctor will help with any follow-up care you may need.
+
+
+ 109:
+
+Comment - 
+
+The patient is a right-handed man with a history of hypertension, diabetes, coronary artery bypass grafting, headaches, and chronic neck and back pain who presented with right facial droop, numbness, and slurred speech for one day. On examination, he had significant dysarthria with preserved language function, right facial weakness, and right-sided sensory and motor deficits. An MRI of the brain showed a left putamen infarct, consistent with his symptoms. MRA of the head and neck revealed no major blockages. The stroke was attributed to small vessel disease, likely due to atherosclerosis from underlying risk factors such as hypertension, diabetes, and smoking. He underwent a complete stroke workup, including labs, telemetry, and an echocardiogram, which showed no cardiac source of embolism and preserved heart function. Since he had a stroke while taking aspirin, he was switched to Plavix. Simvastatin was started for LDL control. Speech therapy was recommended due to dysarthria, and he was discharged home with neurology and primary care follow-ups arranged.
+
+You were admitted after having slurred speech and a drooping face on the right side, which were signs of a stroke. Imaging confirmed that you had a small stroke on the left side of your brain, which explains your symptoms. Because you had this stroke while already taking aspirin, we switched you to another blood thinner called Plavix. You also started a cholesterol-lowering medication, simvastatin, to help reduce your future stroke risk. Your heart tests were normal, and no major blockages were found in your neck arteries. You were advised to stop smoking and follow up with your neurologist and primary doctor. Speech therapy was recommended to help with your slurred speech.
+
+
+ 110:
+
+Comment - 
+
+The patient was admitted with severe abdominal pain and was found to have a large right-sided abdominal hematoma. He was kept NPO, started on IV fluids and antibiotics, and underwent surgery to evacuate the hematoma. The wound was left open with dressings and drains in place. Due to a history of MRSA, appropriate precautions were taken. Postoperatively, the patient developed respiratory issues, including desaturation with activity. Imaging revealed a large right pleural effusion, for which a thoracentesis and later a pigtail drain were performed, successfully relieving symptoms. Additional fluid collections in the abdomen were drained percutaneously. Despite intermittent fevers and signs of infection, he improved clinically on IV antibiotics. A PICC line was placed for long-term antibiotic therapy at home. Pain was managed with adjustments in medication, and he tolerated a regular diet. On hospital day 14, he was afebrile, had a normal white blood cell count, and was ambulating independently. He was deemed stable for discharge with home services arranged for wound care, drain management, and IV antibiotics via the PICC line.
+
+You were admitted to the hospital with severe abdominal pain and had surgery to remove a large area of internal bleeding in your abdomen. After the operation, you developed fluid around your lungs and belly, which was drained to help you breathe and feel better. You received antibiotics and started feeling stronger. A special IV line (PICC) was placed so you can continue your antibiotics at home. You’re also going home with medications for pain—these can make you sleepy, so don’t drive or operate machinery while taking them. A home nurse will help you manage your antibiotics and wound care. You are stable, eating well, walking on your own, and will follow up with your doctors soon.
+
+
+ 111:
+
+Comment - 
+
+The patient is a right-handed woman with a history of depression, anxiety, and obesity who presented with two seizure-like episodes and headache. Her infectious workup was negative, and no clear trigger was identified. An EEG revealed frequent right mid-temporal epileptiform discharges, likely representing a seizure focus, along with focal and generalized slowing. MRI of the brain showed subtle areas of increased FLAIR signal, though these findings may be artifact; follow-up imaging is recommended. Given the two seizures in a single day and abnormal EEG, she was started on levetiracetam (Keppra) for seizure prevention. She was clinically stable and will follow up in the neurology clinic, where repeat MRI will be considered.
+
+You were admitted after having two seizures and a headache. Testing of your brain waves showed some abnormal activity that makes it more likely you could have seizures again. You were started on a medication called Keppra to help prevent future seizures. Your brain scan did not show a stroke or tumor, but follow-up imaging is planned. By law, you should not drive for 6 months after a seizure. Please avoid activities where a sudden loss of awareness could be dangerous—like bathing alone, swimming, climbing, or cooking over an open flame. Your neurologist will help guide the next steps during your follow-up visit.
+
+
+ 112:
+
+Comment - 
+
+The patient was admitted after a fall with brief loss of consciousness. Imaging revealed a subarachnoid hemorrhage and a possible nondisplaced occipital skull fracture. However, neurosurgery reviewed the scan and believed the finding was more consistent with a normal vein rather than a fracture, and no further follow-up was recommended. Additional history from the patient and her mother revealed a prior episode two to three weeks earlier where she injured her fingers, felt lightheaded, and struck the back of her head, possibly losing consciousness. There were also two childhood episodes of fainting. The current event is believed to be related to a syncopal episode, likely triggered by pain, and not a seizure. Her headache was well controlled with Tylenol. Given her history of a previously abnormal EEG, outpatient neurology follow-up was recommended, and she was provided with contact information to schedule an appointment.
+
+You were admitted after you fell, briefly lost consciousness, and hit your head. A brain scan showed a small area of bleeding and a possible skull fracture, but the specialists believe this may have been a normal vein and not an actual fracture. No further treatment is needed for that. Based on your symptoms and history, this episode is thought to be a fainting spell rather than a seizure. However, because of an old EEG test that showed some abnormal results, we recommend that you follow up with a neurologist after discharge. If you or your family have any old records from that EEG, please bring them to your neurology appointment to help guide your care.
+
+
+ 113:
+
+Comment - 
+
+The patient is a man with a history of supraventricular tachycardia, atrial flutter (status post ablation), paroxysmal atrial fibrillation, and prior pulmonary vein isolation (PVI), who was admitted for asthma exacerbation and new-onset hyponatremia following a recent PVI procedure. The procedure itself was successful and well tolerated. He was continued on his home medications including digoxin (with a specific dosing schedule), metoprolol (noted to be at a higher-than-usual home dose), and anticoagulation with INR monitoring already arranged. During admission, he experienced an asthma exacerbation with improvement on nebulized medications and was discharged on a prednisone taper. Chest X-ray was negative for pneumonia or pulmonary embolism. Hyponatremia was attributed to SIADH secondary to procedural stress or asthma and corrected with fluid restriction. His hydrochlorothiazide (HCTZ) was discontinued to avoid further sodium depletion. He was discharged with a heart rhythm monitor and instructions for symptom tracking, and a follow-up was arranged with his PCP to recheck labs including sodium.
+
+You were admitted after having a procedure called pulmonary vein isolation to treat your atrial fibrillation. The procedure went well. You stayed an extra day because of an asthma flare-up and because your sodium levels dropped, likely due to the stress from the procedure or your breathing issues. Your sodium improved with fluid restriction and was normal by the time you left. One of your blood pressure medications, hydrochlorothiazide, was stopped and should not be taken anymore. You were sent home with a heart monitor and instructions to track your heart rhythm and any symptoms. Please follow up with your primary doctor soon to recheck your bloodwork.
+
+
+ 114:
+
+Comment - 
+
+The patient is a woman who presented with abdominal, back, and thigh pain, which worsened with movement. In the emergency department, she also experienced chest pain. A CT scan ruled out bowel ischemia, and X-rays of the hips and lumbar spine showed no fracture or hardware issues. Her neurological exam was intact, and her symptoms were managed with acetaminophen, lidocaine patches, and warm compresses. MRI was not performed due to a pacemaker. Orthostatic hypotension was noted during physical therapy with a 60-point drop in systolic blood pressure but without symptoms. Amlodipine was discontinued, compression stockings were used, and IV fluids were given. No orthostatic changes were noted on the day of discharge. Chest pain was evaluated with EKG and cardiac enzymes, all of which were normal. She was continued on her cardiac medications including aspirin, Plavix, and isosorbide. A urinary tract infection was diagnosed during the hospital stay and treated with ciprofloxacin. Blood pressure medications were adjusted due to low blood pressure when standing.
+
+You came to the hospital because of pain in your abdomen, back, and thighs. You also had chest pain in the emergency room. Tests ruled out serious issues like a heart attack, bowel problems, or broken bones. Your pain was managed with medication and warm compresses. You were also found to have low blood pressure when standing up, so one of your blood pressure medicines was stopped, and you were given fluids and support stockings. A urine test showed an infection, and you were treated with antibiotics. You felt better by the time you left the hospital, and your blood pressure was stable.
+
+
+ 115:
+
+Comment - 
+
+The patient is a woman with a history of squamous cell esophageal cancer and jackhammer esophagus, status post prior intervention, who presented with pain due to food impaction. She underwent an emergent endoscopy, during which the food was removed and a benign-appearing esophageal stricture was found and dilated. Despite this, she continued to experience difficulty swallowing, and a second endoscopy showed no significant obstruction but did reveal a persistent benign stricture measuring 11 mm. She was started on a clear liquid diet to be maintained for one week, after which she may advance to soft solids if she is tolerating liquids. She will follow up with gastroenterology for possible repeat dilation. Her home medications, including a proton pump inhibitor and levothyroxine for hypothyroidism, were continued. Mild leukocytosis was likely due to stress. A urine culture was consistent with contamination, and no antibiotics were required. She continued her liquid-form oxycodone for chronic post-surgical pain. All medications were advised to be taken in liquid or crushed form.
+
+You came to the hospital because food got stuck in your esophagus, causing pain. Doctors performed an emergency procedure to remove the food and found a narrowing in your esophagus, which they stretched to help improve your swallowing. You should stay on a clear liquid diet for one week. You may also have small amounts of pudding and drink nutritional supplements like Ensure to help maintain your weight. If you are doing well with liquids after one week, you can slowly begin eating very soft foods. You’ll follow up with your GI doctor in two weeks to see if another procedure is needed.
+
+ 116
+
+The patient has a history of hypertension and compensated NASH cirrhosis and presented with significant cramping in both calves. Workup revealed hypokalemia, hypomagnesemia, and acute kidney injury, likely due to dehydration from poor oral intake over the past two days. Kidney function improved quickly with IV fluids, suggesting a prerenal cause. Muscle cramps were attributed to low potassium, with mildly elevated CPK levels. The cause of the electrolyte disturbances is unclear but may be related to chronic use of omeprazole, which can lower magnesium levels and interfere with potassium repletion. Omeprazole was discontinued, and an H2 blocker will be started. The patient was discharged on potassium chloride supplementation. Hypocalcemia and hypophosphatemia were also noted but not severe. Phosphate was repleted in the hospital and will be rechecked as an outpatient. Chronic thrombocytopenia related to cirrhosis remained stable. The patient was advised to maintain adequate hydration and follow up with serum electrolyte monitoring after discharge.
+
+You came to the hospital because of severe cramps in your legs. Tests showed that your kidney function was temporarily reduced and you had low levels of several important electrolytes, including potassium, magnesium, and phosphorus. This may have been caused by dehydration and a medication you were taking called omeprazole. You were given fluids and supplements, and your kidney function and potassium levels improved. You are now feeling better. We’ve stopped your omeprazole and started you on potassium supplements. Please drink plenty of fluids and follow up with your doctor to check your electrolyte levels again.
+
+ 117
+
+The patient is a woman with a history of seizure disorder, obesity, and heavy tobacco use who was admitted with complaints of chest pain radiating to her entire body. The chest pain was inconsistent and varied by examiner, reproducible on palpation, and not accompanied by EKG changes or elevated cardiac biomarkers. She was unable to complete nuclear or exercise stress testing due to chronic discomfort lying flat. An echocardiogram revealed no acute wall motion abnormalities but did show grade I diastolic dysfunction. A CT angiogram ruled out pulmonary embolism and aortic dissection. A stable 3.9 cm ectasia of the ascending aorta was found and is not believed to be the cause of her symptoms. She was treated with Tylenol and ibuprofen for presumed costochondritis, with good response by discharge. Her home seizure medications were continued, and social work supported her discharge planning. A few atypical lymphocytes noted on initial labs were later revised to reactive cells, and outpatient monitoring was recommended. She was counseled on smoking cessation and provided with nicotine patches.
+
+You were admitted to the hospital with chest pain. After careful testing, we found no signs of a heart attack or a blood clot in your lungs. You had an ultrasound of your heart which looked normal, and a CT scan that showed a small area of widening in your aorta. This is not causing your pain but should be checked again in six months. Your pain seemed to be related to your muscles or joints, especially since pressing on your chest caused similar discomfort. You started feeling better with pain medication. We also saw a few unusual blood cells, but this is likely not serious. A follow-up blood test can be done later to confirm. You were given support to help you quit smoking and prescriptions for pain relief.
+
+ 118
+
+The patient is a woman with a history of coronary artery disease, hypertension, hyperlipidemia, and prior TIA who presented with altered mental status and was found to have a blood glucose of 704. She was diagnosed with diabetic ketoacidosis (DKA) and admitted to the ICU, where she was treated with IV fluids, insulin, and electrolyte repletion. Her anion gap closed, and she was transitioned to subcutaneous insulin with a sliding scale before being transferred to the medical floor. Her blood glucose levels stabilized, and she tolerated oral intake. The exact cause of the DKA was unclear, as her infectious workup was negative. She remained afebrile, and a urine culture that returned positive after discharge was suspected to represent colonization rather than infection, given her lack of urinary symptoms and normal urinalysis.
+
+She also presented with expressive aphasia and altered mental status, which were initially concerning for stroke. However, CT and CTA of the brain were negative, and neurology attributed the symptoms to severe hyperglycemia. Her speech returned to normal as her glucose levels improved. A transthoracic echocardiogram showed findings consistent with known pulmonary hypertension and did not require intervention during this admission. She was continued on her home medications for hypertension and vascular disease. Follow-up was arranged with her primary care provider and a certified diabetes educator. Blood cultures remained pending at discharge.
+
+You were brought to the hospital because you were confused and not speaking normally. Doctors first thought you might be having a stroke, but it turned out your blood sugar was dangerously high, and you were in a condition called diabetic ketoacidosis. This can be life-threatening if not treated. You were admitted to the ICU and received fluids, insulin, and electrolytes to bring your levels back to normal. As your blood sugar improved, your speech returned to normal. You did not show signs of infection or any stroke. You were able to eat and move around well by the time you left the hospital. You'll follow up with your doctor and a diabetes educator to help prevent this from happening again.
+
+ 119
+
+The patient is a woman with a history of hypertension, hyperlipidemia, recently diagnosed myelodysplastic syndrome (MDS), depression, and dementia, who was admitted with shortness of breath and leg swelling. Imaging showed a large right-sided pleural effusion, and a thoracentesis revealed transudative fluid consistent with congestive heart failure. An echocardiogram showed reduced heart function (EF 35–40%), moderate valve abnormalities, and pulmonary hypertension. She was treated with IV diuretics initially, but due to rising creatinine levels and diarrhea, diuretics were temporarily held. As her renal function recovered, oral diuretics were restarted with improvement.
+
+She was also found to be in atrial fibrillation, which appeared to be a new diagnosis. Given her risk factors, she was started on warfarin (Coumadin) for stroke prevention, and arrangements were made for INR monitoring. Her elevated INR on admission, before starting warfarin, was attributed to malnutrition. She experienced diarrhea during her hospital stay, likely related to a viral infection, which resolved without specific treatment. Anemia and thrombocytopenia were attributed to her known MDS. She also had intermittent right arm swelling, believed to be due to prior lymph node dissection; an ultrasound ruled out blood clots. Her home medications for blood pressure, cholesterol, depression, dementia, and bone health were continued. Outpatient follow-up with cardiology and hematology was arranged.
+
+You were admitted because you were having trouble breathing. Tests showed fluid around your lungs caused by heart failure. This fluid was drained, and an ultrasound of your heart showed that your heart isn’t pumping as well as it should. You were started on medications to help your heart work better. While you were here, you were also diagnosed with a new heart rhythm problem called atrial fibrillation. To help prevent a stroke, you were started on a blood thinner called Coumadin. This medication needs regular blood tests to make sure the dose is correct. You will also follow up with a heart doctor and your blood specialist after discharge.
+
+ 120
+
+The patient is a woman with a history of gout, bilateral pulmonary emboli on warfarin, hypertension, hyperlipidemia, and chronic kidney disease who was admitted for right knee pain and swelling. Examination revealed a moderate knee effusion, and a joint aspiration in the ED yielded 5cc of bloody fluid. Synovial fluid analysis showed elevated white cells (WBC 9300, PMN 89%), hematocrit of 11.0, and no crystals, consistent with a hemarthrosis. Cultures were negative. The likely cause was an elevated INR due to poor oral intake. Her warfarin was held and later restarted at a reduced dose of 1.5 mg daily. Physical therapy evaluated her and she improved in range of motion and pain without recurrence of effusion. She will follow up with orthopedics and receive home therapy for strengthening.
+
+She also reported shortness of breath during the admission, and a chest X-ray revealed a large hiatal hernia, for which outpatient surgical consultation was arranged. Anemia with macrocytosis was noted, likely related to poor nutrition, though B12, folate, and TSH were normal. Her CKD remained stable for most of the admission but creatinine increased slightly to 2.2 on discharge, warranting follow-up. She was continued on medications for hypertension, hyperlipidemia, GERD, and gout. INR monitoring was scheduled for the day after discharge.
+
+You came to the hospital because your right knee became swollen and painful. Doctors drained fluid from your knee and found it was bloody, not infected. This was likely caused by your blood thinner (warfarin) being too strong, possibly from poor eating in the days before. Your warfarin dose was adjusted and will be checked after you go home. You worked with physical therapy in the hospital and improved, and they recommended home therapy to continue your recovery. An X-ray also showed a large hiatal hernia, which may be causing some of your breathing symptoms. You’ll be seeing a surgeon to discuss that. Follow-up with your primary doctor and specialists is important to monitor your progress and medications.
+
+ 121
+
+The patient is a man with diffuse large B-cell lymphoma (DLBCL) who was admitted for his second cycle (C2) of EPOCH chemotherapy after receiving intrathecal methotrexate on the day of admission. He tolerated chemotherapy well aside from one episode of asymptomatic hypotension on day 4. Infectious workup was negative except for a urine culture that grew E. coli. Chemotherapy was briefly held for 12 hours, then resumed without further complications. He completed his treatment with expected fatigue but no other major side effects. A bolus dose of etoposide was mistakenly given on day 1 but caused no adverse effects. A PICC line placed for chemotherapy was removed before discharge. His hypotension was treated conservatively with fluids and a transfusion, and his blood pressure stabilized. The urine culture revealed E. coli resistant to ciprofloxacin (which he was initially discharged on), so his wife was contacted and his antibiotics were changed to nitrofurantoin (Macrobid). He had a sacral decubitus ulcer without signs of infection, and wound care was continued during admission with plans for follow-up at home. He also reported mild dysphagia, which was stable and non-progressive. No intervention was required. He is scheduled for follow-up with oncology and a repeat PET scan.
+
+You were admitted to the hospital to receive your second round of chemotherapy for lymphoma. You had a spinal injection of chemotherapy before admission. Overall, you tolerated the treatment well, although your blood pressure was low for a short time. This improved with fluids and holding the chemo briefly. You were also found to have a urinary tract infection, and although you were first sent home on ciprofloxacin, the bacteria was resistant to it. We called in a new prescription for Macrobid, which you should take as directed for 10 days. You will continue with your wound care for your pressure ulcer at home. Please follow up with your cancer doctor and go to your scheduled PET scan.
+
+ 122
+
+The patient is a woman with a history of anaplastic thyroid cancer who presented with new left-sided chest pain and was found to have a large left pleural effusion. Imaging revealed a complete whiteout of the left lung, and a chest tube was placed in the emergency department. A subsequent thoracoscopy with biopsy confirmed malignant pleural involvement from anaplastic thyroid cancer. She had persistent high chest tube output (~1.5L/day) and required IV fluids for one episode of tachycardia, though she remained hemodynamically stable and able to take fluids by mouth. Her home metoprolol was held due to concern for hypotension. Upon admission, she met systemic inflammatory response syndrome (SIRS) criteria with elevated WBC, lactate, and hypotension, but remained afebrile. Antibiotics were started empirically but later discontinued after cultures remained negative and the leukocytosis was thought to be a leukemoid reaction related to metastatic disease. Her sodium was low on admission and improved with fluid resuscitation. She was discharged with a capped pleurex catheter, instructions to drain no more than 1L per session, and plans for close outpatient follow-up with oncology and her primary care provider to reassess medication and hydration status.
+
+You were admitted with pain in your left shoulder and back and were found to have a large fluid buildup in your left lung. A chest tube was placed to drain the fluid, and your breathing improved. A biopsy of a mass in the lung area confirmed it was related to your thyroid cancer. At first, your bloodwork suggested you might have had an infection, so antibiotics were started, but since you had no fever and all cultures came back negative, the antibiotics were stopped. Your high white blood cell count was most likely a reaction to your cancer. You were discharged with instructions for how to manage your chest tube at home and will follow up with your cancer doctor and primary care provider.
+
+ 123
+
+The patient is a woman with a history of hypertension, type 2 diabetes, aortic stenosis, and orthostatic hypotension who was admitted after a syncopal episode. Workup revealed severe aortic stenosis with a peak gradient of 71 mmHg, mean gradient of 50 mmHg, and preserved ejection fraction (>75%). She underwent a TEE and was evaluated by the structural heart team and cardiothoracic surgery for possible TAVR; outpatient TAVR CT is planned. Her syncopal episode was more likely due to orthostatic hypotension rather than valvular disease, as she improved with oral hydration. Antihypertensives (labetalol and losartan) were resumed at discharge. She sustained a scalp laceration and left ankle pain from her fall, both of which were managed conservatively. Staples remained in place and follow-up was arranged for removal. A CT from an outside hospital showed an abnormal left thyroid lobe; she will need an outpatient thyroid ultrasound. Other chronic issues including asthma, anxiety, hyperthyroidism, GERD, and dyslipidemia were managed on home medications. She was discharged home in stable condition with outpatient follow-up arranged for cardiology and primary care.
+
+You were admitted after passing out and were found to have severe narrowing in your heart valve (aortic stenosis). You also had some mild and moderate blockages in your heart arteries, but they did not require surgery. Your care team is evaluating whether you are a candidate for a procedure called TAVR, which would help fix the valve issue. You will be contacted at home for follow-up testing. Your fainting was likely due to a drop in blood pressure when standing, which got better with drinking more fluids. We restarted some of your blood pressure medications and recommend that you continue to stay well-hydrated. You also had a small scalp injury and some ankle pain from the fall, which have been treated. Follow-up is scheduled with your doctors to continue monitoring these issues.
+
+ 124
+
+The patient was a man with decompensated hepatitis C cirrhosis complicated by portal hypertension, ascites, and peripheral edema (status post TIPS) who was awaiting liver transplantation. He was admitted for rising bilirubin and progressive liver failure. During hospitalization, he developed worsening hepatic encephalopathy, hepatorenal syndrome requiring dialysis, and persistent leukocytosis despite broad-spectrum antibiotics. Imaging did not reveal biliary obstruction, though a large pancreatic pseudocyst was noted and suspected to be a potential infection source. Blood cultures were intermittently positive for coagulase-negative staph, while other cultures remained negative. Toward the end of his hospital course, his WBC count rose sharply, and abdominal ultrasound showed multiple new liver lesions concerning for abscesses, making transplant no longer a viable option. He was also followed for a drug-induced bullous skin disorder, managed with clobetasol and wound care, and experienced a separate morbilliform eruption following re-exposure to furosemide. His clinical condition deteriorated rapidly due to presumed sepsis, and his family transitioned him to DNR/DNI. He passed away in the hospital.
+
+You were admitted to the hospital for worsening liver disease due to hepatitis C. You were also treated for blistering skin lesions that doctors thought might be related to a past medication. While in the hospital, your kidney function worsened and you needed dialysis. You were being evaluated for a liver transplant, but developed a severe infection. Although tests did not confirm where the infection was coming from, doctors suspected it may have been related to a fluid collection in your pancreas. Toward the end of your stay, imaging showed that your liver had developed many cyst-like areas that were likely abscesses. Your condition continued to decline, and your family made the decision to change your care plan to comfort-focused. You passed away peacefully in the hospital.
+
+ 125
+
+The patient is a woman who was admitted for poor nutritional status and persistent diarrhea. During her hospital stay, she was started on total parenteral nutrition (TPN) and made NPO for two days, which resulted in some improvement in her symptoms. Fecal fat studies revealed steatorrhea (excess fat in stool), indicating malabsorption. No acute interventions were required during admission. She tolerated TPN and was also able to resume a regular diet by the time of discharge. She was discharged home doing well, with instructions to continue TPN and dietary management.
+
+You were admitted to the hospital because of ongoing diarrhea and poor nutrition. Tests showed that you're not absorbing fat properly. To help support your nutrition, we started you on IV nutrition (called TPN). You were also asked to stop eating for a short period, which helped reduce your diarrhea. By the time you left the hospital, you were able to eat some regular foods again and were feeling better. You’ll go home on TPN and should continue monitoring your symptoms and following your diet carefully.
+
+ 126
+
+The patient is a right-handed woman with a history of bipolar disorder managed with lithium and a history of opiate abuse currently on methadone, who was admitted for evaluation of seizure-like episodes. During her hospital stay, two typical events were captured on video EEG monitoring. The episodes began with upper limb shaking and progressed to head movement, with the patient remaining nonverbal but able to follow some commands. Critically, there were no EEG changes corresponding to these episodes. She remained fully alert and oriented immediately afterward. Given the absence of EEG abnormalities during the events and the clinical presentation, these episodes were diagnosed as psychogenic non-epileptic seizures (pseudoseizures). The diagnosis was explained to the patient and her mother, who both appeared to understand. No antiepileptic medications were started, and no changes were made to her existing regimen. Discharge was coordinated to allow her to attend a previously scheduled outpatient psychiatry appointment, and her psychiatrist was notified via fax.
+
+You were admitted because you were having shaking episodes that looked like seizures. We monitored your brain activity during these episodes using video EEG and found that there were no changes in your brain waves when the shaking occurred. This means that these events are not due to epilepsy, but rather may be related to stress or your mental health condition. We discussed this with you and your mother, and you both understood that this is not a dangerous neurological issue. We sent a summary of your hospital stay to your psychiatrist, and we did not make any changes to your medications. You were discharged in time to attend your scheduled outpatient psychiatric appointment.
+
+ 127
+
+The patient is a woman with a history of diastolic heart failure, aortic stenosis status post bioprosthetic valve replacement, insulin-dependent diabetes, hypertension, and chronic kidney disease who presented with right foot and knee pain due to a gout flare. Initial symptoms were consistent with podagra and progressed to involve the metatarsals and right knee. Imaging ruled out fracture and DVT. Rheumatology was consulted due to the presence of tophi and elevated uric acid (11.9) and diagnosed polyarticular gout. Prednisone was increased from 5 mg to 40 mg daily with a planned taper, and allopurinol was initiated. She responded well to treatment. Regarding fluid status, she appeared slightly hypervolemic with lower extremity edema but clear lungs. Her torsemide dose (80 mg) was continued, though one reduced dose (40 mg) was planned for the day after discharge due to elevated BUN (77) and creatinine (2.2). The increase was possibly due to steroid-induced catabolism. She was discharged 1 kg above dry weight and will require outpatient follow-up for renal function and volume status. Other chronic conditions, including diabetes and polymyalgia rheumatica, were managed on home medications.
+
+You were admitted for pain in your right foot and knee, which was diagnosed as a gout flare affecting multiple joints. Rheumatology confirmed the diagnosis, and your prednisone dose was increased temporarily and will now be tapered gradually. You were also started on a new medication, allopurinol, to help prevent future flares. Because you have heart failure, we are also watching your fluid levels closely. Your kidney function showed some changes, so we adjusted your water pill (torsemide) to a lower dose for one day and then recommended going back to your regular dose. You will need your kidney function and fluid status rechecked within a week after discharge.
+
+ 128
+
+The patient is a woman with a history of coronary artery disease, systolic congestive heart failure, chronic kidney disease, type 2 diabetes mellitus, and Crohn’s disease who was admitted for hyponatremia. The hyponatremia was attributed to polydipsia, as she reported excessive water intake due to fear of kidney failure. Urine osmolality on admission was low (144), supporting this diagnosis. She was placed on fluid restriction (1.5L initially), and sodium normalized by discharge. She also had signs of volume overload and was restarted on torsemide 5mg daily. Her potassium peaked at 5.6 without EKG changes, possibly due to type IV renal tubular acidosis; irbesartan was reduced by half, and torsemide resumed. Echocardiogram showed an EF of 50–55%, but a perfusion stress test noted an EF of 34%. BNP was elevated at baseline. Carvedilol was increased to 25mg BID for hypertension, and imdur 30mg was started. She experienced one episode of chest pain with negative troponins and EKG; cardiology attributed this to demand ischemia. Her kidney function remained stable (Cr 1.4–2.2 range), and she was reassured that dialysis was not expected soon. Her diabetes was well-controlled (HbA1c 6.7), and she did not require insulin during admission. She was also treated for Crohn’s disease, anemia of chronic disease, and chronic pancreatitis. She was discharged with changes to her cardiac medications and instructions to continue a 2L daily fluid restriction, with cardiology follow-up arranged.
+
+You were admitted because your sodium level was low, which we believe was caused by drinking too much water. You mentioned that you drink a lot of water out of fear that you may need dialysis someday, but your kidney function is stable, and there is no sign that dialysis is needed now. Too much water can lower your sodium, which can make you feel sick and worsen your heart condition. We recommend that you limit your fluid intake to no more than 2 liters per day. You also had one episode of chest pain in the hospital, but testing showed no heart attack. However, your heart function has decreased compared to previous tests, so we increased your carvedilol dose and started a new blood pressure medication called imdur. We also lowered your irbesartan dose to help keep your potassium in a safe range and restarted your water pill (torsemide) to help with leg swelling. You’ll follow up with your heart doctor soon, and we’ll recheck your labs at your next appointment.
+
+ 129
+
+The patient is a woman with end-stage renal disease (ESRD) on peritoneal dialysis (PD), who was admitted with altered mental status and myoclonic jerks. Her encephalopathy was determined to be multifactorial—likely secondary to toxic-metabolic causes from a C. difficile infection and left lower extremity (LLE) cellulitis, as well as mild electrolyte abnormalities. Neurologic imaging (CT, MRI) and a 24-hour EEG showed no acute findings or seizures. With antibiotic treatment and correction of sodium and potassium levels via PD, her mental status returned to baseline. She was found to have LLE cellulitis overlying a chronic ulcer, which improved on IV vancomycin and zosyn; one final dose of zosyn was scheduled at her rehab facility. Her C. difficile infection was initially treated with PO metronidazole but switched to vancomycin due to nausea; this will be completed at the extended care facility. Her PD regimen was adjusted with increased dwell volume, which improved her labs. She was also diagnosed with calciphylaxis, managed medically with sodium thiosulfate infusions, pentoxifylline, sildenafil, and topical lidocaine—treatment to be continued under nephrology supervision in rehab. Her chronic hypertension was managed with labetalol titrated to 200mg TID due to elevated systolic pressures. Diabetes was managed with sliding scale insulin. She was discharged in stable condition, full code, with follow-up arranged for nephrology and wound care.
+
+You were admitted because you were confused and not acting like yourself. Testing showed that your confusion was likely due to a combination of a leg infection, a stomach infection called C. diff, and some changes in your blood chemistry. You were treated with IV antibiotics for your leg infection, and oral antibiotics for the C. diff infection. Your kidney doctor adjusted your dialysis to help correct your blood levels, and your mental status improved. You were also found to have a rare skin condition called calciphylaxis, and you were started on several treatments for this, including wound care and IV medication. You will continue dialysis and these treatments at your rehab facility. Your blood pressure medications were adjusted before discharge, and your kidney and wound care will be closely followed by your doctors.
+
+ 130
+
+The patient is a quadriplegic individual due to a motor vehicle accident several years ago, with a history of chronic left elbow infection and a persistent draining sinus, status post two prior washouts. He presented with increased drainage and redness from the elbow. Imaging showed soft tissue gas and swelling without evidence of osteomyelitis. Orthopedic surgery evaluated him and discussed definitive surgical treatment, including sinus tract excision and flap closure. After multiple discussions, the patient elected to decline surgery as it did not align with his goals of care. A bone biopsy was not performed, as it would not alter management without definitive surgical intervention. He was started on a 6-week course of ciprofloxacin and tolerated antibiotics well during hospitalization. Wound care consultation was obtained, and updated outpatient wound care instructions were provided to the patient and caregiver. He was also fitted for a splint to wear at night to protect the elbow. Additional issues included mild anemia, likely due to chronic wound oozing, and reactive thrombocytosis related to infection. Chronic medications were continued, including oxybutynin, baclofen, and diazepam, with ibuprofen held due to surgical considerations. He was discharged with plans for continued wound care, nursing, occupational therapy, and orthopedic follow-up.
+
+You were admitted because of increased drainage and signs of infection in your left elbow, which has had chronic problems in the past. You met with the orthopedic surgery team and decided not to have surgery, as it would have required a significant procedure that could affect your independence. Instead, you're being treated with a long course of antibiotics to help control the infection. You were also given a splint to wear at night to protect your elbow, and your care team reviewed wound care instructions with you and your caregiver. Follow-up has been arranged with the orthopedic team, and you will continue receiving wound care and therapy services after discharge.
+
+ 131
+
+The patient is a woman with a history of dermatitis and no known psychiatric or neurological history who was admitted after an episode of sudden unresponsiveness without convulsive activity. On arrival to the emergency department, she remained unresponsive to voice or touch but resisted examination and could not cooperate with imaging. She was given lorazepam and haloperidol and was minimally reactive initially. Work-up included head CT, brain MRI, chest X-ray, and comprehensive labs, all of which were unremarkable. Continuous EEG showed no epileptiform activity. She returned to her neurological baseline the following morning, alert and oriented, with no focal findings on exam. Given the normal workup and her rapid recovery, a seizure or encephalitis was deemed unlikely. Her symptoms were felt to be psychogenic in nature, possibly related to significant recent emotional and physical stressors. Social work consulted with her and learned of a history of trauma and non-consensual sexual encounters. Plans were made to connect her with therapy, trauma resources, support groups, and psychiatric care as needed. She was discharged in stable condition with a recommendation to follow up with her primary care physician in one week.
+
+You came to the hospital because you became suddenly unresponsive and could not be awakened. While you were here, we performed multiple tests including brain scans, blood work, and an EEG to monitor your brain's activity. All of your test results came back normal, and there was no evidence of a seizure, stroke, infection, or other medical condition. The next day, you were back to your normal self and feeling well. We believe that your episode may have been related to stress. Social work met with you and is helping set up therapy and support resources to help you going forward. You will need to follow up with your primary care provider and stay connected with the support services being arranged for you.
+
+ 132
+
+The patient is a woman with a history of intravenous drug use who presented with high fever and right-sided hip pain. On exam, she had tenderness in the hip and sacrum, and a new holosystolic murmur was noted. MRI revealed right-sided sacroiliitis and soft tissue inflammation. A hip aspiration attempt was non-productive, though joint space was believed to be accessed. Blood cultures returned positive for penicillin-sensitive Streptococcus viridans, and a transesophageal echocardiogram (TEE) confirmed a mitral valve vegetation (0.9 x 1.0 cm), consistent with infective endocarditis. She defervesced quickly after starting intravenous vancomycin, which was later narrowed to ceftriaxone. A PICC line was placed for long-term antibiotic therapy. Repeat MRI showed a small right iliopsoas fluid collection not amenable to drainage. The patient remained afebrile with improving symptoms and was discharged on a 6-week course of IV ceftriaxone, starting from the last positive blood culture date. She will follow up with infectious disease and undergo weekly lab monitoring. She also has iron deficiency anemia, for which she was started on oral iron supplements, and she was counseled on not misusing her PICC line due to her history of IV drug use.
+
+You were admitted with fever and hip pain. Imaging showed inflammation in the tissues around your hip but no evidence of bone infection. Your blood cultures revealed an infection in your bloodstream caused by a bacteria called Strep Viridans. Because of this, and a new heart murmur heard during your exam, a special ultrasound of your heart (TEE) was done and showed that the infection had spread to one of your heart valves. You were started on IV antibiotics, and your symptoms improved quickly. A repeat MRI also showed a small fluid collection near your spine, but it wasn’t in a place where it could be drained, so we continued antibiotics instead. You were discharged to complete a 6-week course of antibiotics through a PICC line and will need close follow-up with your infectious disease doctor. You were also started on iron pills for anemia, and we discussed the importance of not using your PICC line for anything other than prescribed treatment due to your prior drug use.
+
+ 133
+
+The patient is an individual with a history of diabetes mellitus and chronic abdominal pain, previously diagnosed with cyclic vomiting syndrome (CVS), who presented with vomiting and abdominal pain consistent with prior flares. Extensive prior workup excluded gastroparesis and other structural causes. The patient has also exhibited drug-seeking behaviors, and per PCP instructions in the chart, narcotics were avoided. Labs were notable for hypokalemia and starvation ketoacidosis. The patient received IV fluids with dextrose, potassium repletion, and symptomatic treatment with acetaminophen, toradol, ondansetron, metoclopramide, and lorazepam as needed. Imaging (KUB) was negative for obstruction. A bowel regimen was initiated for underlying constipation, and he passed some stool before discharge. He began tolerating a regular diet and requested discharge despite medical advice to monitor further oral intake. His potassium levels normalized by discharge. Diabetes management was complicated by refusal of insulin at one point and episodes of hypoglycemia due to reduced intake; insulin was held and IV fluids were supplemented with dextrose. Blood sugars stabilized by discharge. Blood pressure remained in the 140s; he was not on lisinopril during admission due to NPO status. Outpatient follow-up for pain management and hypertension monitoring was recommended.
+
+You were admitted with abdominal pain and vomiting, which was consistent with your usual episodes of cyclic vomiting syndrome. You received IV fluids with sugar, medications for nausea and pain (non-narcotic), and treatment for constipation. You also had low potassium levels and mild ketoacidosis from not eating, which were corrected during your stay. Your blood sugar dropped while you weren’t eating, so we adjusted your insulin and gave you fluids with sugar. Your levels improved before discharge. You refused insulin at one point, and we discussed why taking your insulin is important to avoid dangerous complications like DKA. We also
+
+ 134
+
+The patient is a woman who was admitted for a partial small bowel obstruction (pSBO). She was managed conservatively with observation and supportive care. She began passing flatus overnight, indicating return of bowel function. On hospital day 2, she was started on a clear liquid diet, which she tolerated well. She progressed to regular food by lunch the same day without nausea, vomiting, or abdominal pain. She continued to improve with ongoing flatus and was deemed stable for discharge. No surgical intervention, nasogastric decompression, or medications were required during hospitalization. She was discharged home with instructions to return if symptoms worsened and to follow up as needed.
+
+You were admitted because your bowels were not working properly due to a partial small bowel obstruction. We treated this with supportive care, and your symptoms improved. You began passing gas and tolerated both clear liquids and regular food without discomfort. You did not need surgery, a feeding tube, or any pain medications. Since you are feeling better and your bowels are working again, we are sending you home without prescriptions. If you develop new abdominal symptoms or are unable to pass gas or have a bowel movement, please return to the emergency room or call your clinic.
+
+ 135
+
+The patient is a man with a history of chronic hepatitis C infection and end-stage renal disease (ESRD) on hemodialysis, who was admitted due to a thrombosed arteriovenous (AV) graft in his left arm. He underwent a successful thrombectomy without complications and resumed dialysis the following day. Labs revealed pancytopenia, including low platelets, which may be attributed to chronic hepatitis C–related cirrhosis causing decreased thrombopoietin production or splenic sequestration due to splenomegaly. His anemia is likely from chronic kidney disease. The cause of pancytopenia was not fully determined during admission and was deferred to his outpatient provider. He remains on a standard renal diet and medications for ESRD management including sevelamer, ergocalciferol, and nephrocaps. Given his history of hepatic encephalopathy, HCV treatment is strongly recommended, and outpatient follow-up was advised to further address this. The patient was discharged in stable condition with instructions to remove surgical sutures on a specified date and to continue regular AV graft maintenance.
+
+You were admitted because the dialysis access in your arm developed a clot. This was successfully treated with a procedure called thrombectomy, and you were able to resume dialysis without any issues. During your stay, we also noted that your blood counts were low, including your platelets and white blood cells. This may be related to your chronic hepatitis C infection or kidney disease. You will need further evaluation of this with your doctor after discharge. You also have hepatitis C, and since you’ve had complications like confusion in the past (encephalopathy), it is recommended that you start treatment for this virus. Please follow up with your primary care doctor or liver specialist to discuss treatment options.
+
+ 136
+
+The patient is a man with stage IV double-hit diffuse large B-cell lymphoma (DLBCL) with leptomeningeal involvement, previously treated with R-EPOCH and intrathecal methotrexate prophylaxis, currently on high-dose methotrexate. He was admitted for severe lower back pain radiating to both legs. MRI of the thoracic and lumbar spine showed stable leptomeningeal disease. He was treated with cycle #2 of high-dose methotrexate, rituximab, and IV dexamethasone. Methotrexate clearance was adequate, and he was discharged on oral dexamethasone and leucovorin, along with prophylactic Bactrim, acyclovir, and pantoprazole. His pain improved significantly with steroids and was managed with adjusted doses of Oxycontin, oxycodone, and IV morphine. Chronic conditions managed during admission included coronary artery disease (aspirin was held and restarted post-discharge), hypertension (lisinopril and amlodipine continued), and tobacco use (nicotine patch continued). Incidental findings included a small left adrenal mass and a defect in the left internal carotid artery, with outpatient imaging (adrenal protocol and MRA neck) recommended for follow-up.
+
+You were admitted with severe back pain radiating to both legs. Imaging showed that your lymphoma involving the spinal area had not worsened. You were treated with high-dose methotrexate, steroids, and rituximab. You tolerated all of these treatments well and your pain improved significantly. Your methotrexate levels dropped appropriately, and you were discharged on oral medications to continue recovery. During your stay, a small mass was found on your adrenal gland and a change was seen in an artery in your neck. These findings are not urgent, but you should have follow-up imaging as an outpatient to monitor them.
+
+ 137
+
+The patient is an elderly female with end-stage renal disease (ESRD) on hemodialysis, a history of colon cancer, sacral decubitus ulcer, and trochanteric bursitis who presented with worsening sacral pain following a mechanical fall from her wheelchair one week prior. Imaging revealed a large organized right lateral thigh hematoma (8.8 x 9.8 x 21.6 cm) without active bleeding. Head, cervical spine, and pelvic CTs were negative for acute injury. She has experienced pain with movement, poor appetite, and difficulty swallowing pills. Nutrition evaluation confirmed severe malnutrition. She tolerated a renal diet with thin liquids but occasionally coughs when drinking. She required maximum assistance for mobility and was receiving midodrine for borderline hypotension. She was evaluated by wound care for ostomy and sacral ulcer management. Her vital signs and hematocrit remained stable, and she was afebrile throughout admission. She will be discharged to a continued care facility with outpatient follow-up for hemodialysis, neurology, hematology, and a repeat x-ray to assess the thigh hematoma.
+
+You were admitted after a fall from your wheelchair caused a large bruise on your right thigh. Imaging confirmed a large but stable blood collection in your thigh, and you did not have any fractures. You were also experiencing pain near a sore on your lower back and have had difficulty eating and taking medications. Nutrition services evaluated you and diagnosed severe malnutrition. You were started on supplements and will need continued nutritional support. Your dialysis schedule will continue as usual, and you will be discharged to a care facility for additional help with your recovery. You’ll also need follow-up imaging of your thigh and appointments with your neurology and hematology doctors.
+
+ 138
+
+An elderly male on Eliquis for a prothrombin gene mutation was admitted with worsening left groin pain and a growing bulge. Imaging showed an incarcerated inguinal hernia without strangulation. After a 36-hour anticoagulation washout, he underwent successful surgical repair of left inguinal and Spigelian hernias with mesh. Postoperatively, he developed a hematoma beneath the incision after restarting heparin; the heparin was stopped and the hematoma was monitored without intervention. His hematocrit decreased but stabilized, and Eliquis was restarted later during the admission. He also experienced urinary retention postoperatively, requiring Foley reinsertion and initiation of Flomax. By discharge, he was stable, afebrile, tolerating diet, ambulating with assistance, and pain was controlled. He was discharged home with follow-up instructions.
+
+You were admitted due to groin pain caused by an incarcerated hernia. You had surgery to repair the hernia, and the procedure went well. After restarting your blood thinner, you developed a hematoma at the surgical site. Your doctors temporarily stopped the blood thinner to allow the bleeding to stop. Your blood levels stabilized, and your medication was safely restarted. You also had trouble urinating after surgery, so your catheter was replaced and you were started on Flomax to help with urination. At discharge, you were eating well, walking with assistance, and your pain was under control. You were discharged home with a clear plan for follow-up and recovery.
+
+ 139
+
+Patient with a history of chronic alcohol use presented after a 10-day binge, reporting nausea, vomiting, tremors, and visual hallucinations. In the ED, he received a banana bag, valium, and potassium for hypokalemia. Labs showed elevated AST>ALT, consistent with alcoholic liver disease. He was admitted for alcohol withdrawal and placed on CIWA protocol. Visual hallucinations began within 24–48 hours of abstinence and resolved spontaneously during hospitalization. Renal function was impaired on admission but improved with IV fluids. He was discharged on thiamine, folic acid, a multivitamin, and PRN Librium. He declined inpatient addiction support, preferring to continue with his outpatient counselor.
+
+You were cared for in our hospital for alcohol withdrawal and visual hallucinations after a 10-day alcohol binge, which ended patient evening. You reported nausea, vomiting, and tremulousness after stopping alcohol. You also reported visual hallucinations starting patient. These symptoms improved and resolved by the time of your discharge. Your hallucinations are most likely from alcohol withdrawal, a condition called alcoholic hallucinosis. You report wanting to stop drinking. We encourage you to do this as well. Your liver enzymes are continuing to worsen as you drink more, demonstrating that your liver is undergoing damage.
+
+ 140
+
+Patient with history of AAA and Type A aortic dissection presented with nausea/vomiting, epigastric pain, leukocytosis, and acute kidney injury. MRI showed stable dissection. Labs revealed hypokalemia and elevated Cr, likely from volume depletion. Treated with IV fluids and potassium. Symptoms improved, renal function normalized, and he was discharged tolerating oral intake. Consideration of cannabis hyperemesis syndrome and outpatient workup for Conn’s syndrome due to persistent hypokalemia and known adrenal nodules.
+
+You were admitted for nausea and vomiting for 2 days. In the emergency department, you were given IV fluids. Lab studies showed a worsening of your renal function, which we believe was likely related to a recent viral illness called gastroenteritis, as well as a low potassium, which you have had in the past. Initial imaging (MRI of your aorta) confirmed that this was unrelated to your known aortic dissections. In addition to continuing your IV fluids along with potassium supplementation, we held your blood pressure medications (lisinopril, hydrochlorothiazide) until discharge due to your decreased renal function. At the time of discharge, your potassium and renal function had returned to normal.
