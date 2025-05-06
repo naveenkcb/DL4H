@@ -25,13 +25,38 @@ from dataclasses import dataclass, field
 from typing import Optional
 
 import nltk  # Here to have a nice missing dependency error message early on
+nltk.download('punkt') #nc42 add this line
+
+# Force load correct tokenizer manually
+from nltk.data import load
+from nltk.tokenize.punkt import PunktSentenceTokenizer
+
+english_tokenizer = load("tokenizers/punkt/english.pickle")
+#nc42
+
+'''
+LookupError: 
+**********************************************************************
+  Resource punkt_tab not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  >>> import nltk
+  >>> nltk.download('punkt_tab')
+'''
+
+
 import numpy as np
-from datasets import load_dataset, load_metric
+from datasets import load_dataset #, load_metric  nc42 remove
+import evaluate # nc42 add this import
+#nc42 load_metric function has been deprecated
 # from peft import get_peft_config, get_peft_model, LoraConfig, TaskType, prepare_model_for_int8_training
 import pickle
 import torch
-from transformers.modeling_utils import _load_state_dict_into_model
 
+#from transformers.modeling_utils import _load_state_dict_into_model
+
+#nc42 This is an internal function that you're importing directly, which seems to have been 
+# removed or renamed in newer versions of transformers.
 
 import transformers
 from filelock import FileLock
@@ -46,7 +71,9 @@ from transformers import (
     default_data_collator,
     set_seed,
 )
-from transformers.file_utils import is_offline_mode
+#from transformers.file_utils import is_offline_mode # nc42
+from transformers.utils import is_offline_mode 
+
 from transformers.trainer_utils import get_last_checkpoint, is_main_process
 from transformers.utils import check_min_version
 import wandb
@@ -263,13 +290,46 @@ def main():
     # or by passing the --help flag to this script.
     # We now keep distinct sets of args, for a cleaner separation of concerns.
 
-    parser = HfArgumentParser((ModelArguments, DataTrainingArguments, Seq2SeqTrainingArguments))
+    parser = HfArgumentParser((ModelArguments, DataTrainingArguments, Seq2SeqTrainingArguments)) #nc42 
+    #parser = HfArgumentParser((ModelArguments, DataTrainingArguments))   #nc42
+
+
     if len(sys.argv) == 2 and sys.argv[1].endswith(".json"):
         # If we pass only one argument to the script and it's the path to a json file,
         # let's parse it to get our arguments.
         model_args, data_args, training_args = parser.parse_json_file(json_file=os.path.abspath(sys.argv[1]))
     else:
+        #model_args, data_args, training_args = parser.parse_args_into_dataclasses()
         model_args, data_args, training_args = parser.parse_args_into_dataclasses()
+
+    #nc42
+    '''
+    training_args = Seq2SeqTrainingArguments(
+            predict_with_generate=True,
+            evaluation_strategy="steps",
+            save_strategy="steps",
+            per_device_train_batch_size=1,
+            per_device_eval_batch_size=1,
+            #fp16=True,
+            #fp16_backend="apex",
+            output_dir="/content/drive/MyDrive/DL4H-Project/mimic-iv-note-di-bhc/dataset",
+            eval_steps=20,
+            save_steps=20,
+            max_steps=20,
+            do_eval=True,
+            do_predict=True,
+            do_train=True,
+            load_best_model_at_end=True
+            #warmup_steps=1500,
+            #save_total_limit=2,
+            #gradient_accumulation_steps=4,
+    )
+    #nc42
+    '''
+
+    # Set WANDB API key inside the code nc42
+    os.environ["WANDB_API_KEY"] = ""
+
 
     # Enable wandb logging
     short_model_name = model_args.model_name_or_path.split('/')[-1]
@@ -548,14 +608,24 @@ def main():
         )
 
     # Metric
-    metric = load_metric("rouge")
+    #metric = load_metric("rouge")
+    metric = evaluate.load("rouge") #nc42
+
+    #nc42
+    # Replace broken sent_tokenize with a custom function
+    def sent_tokenize(text):
+        return english_tokenizer.tokenize(text)
+    #nc42
 
     def postprocess_text(preds, labels):
         preds = [pred.strip() for pred in preds]
         labels = [label.strip() for label in labels]
         # rougeLSum expects newline after each sentence
-        preds = ["\n".join(nltk.sent_tokenize(pred)) for pred in preds]
-        labels = ["\n".join(nltk.sent_tokenize(label)) for label in labels]
+        #preds = ["\n".join(nltk.sent_tokenize(pred)) for pred in preds]
+        #labels = ["\n".join(nltk.sent_tokenize(label)) for label in labels]
+        preds = ["\n".join(sent_tokenize(pred)) for pred in preds]
+        labels = ["\n".join(sent_tokenize(label)) for label in labels]
+        
         return preds, labels
 
     def compute_metrics(eval_preds):

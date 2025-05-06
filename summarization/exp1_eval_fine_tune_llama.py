@@ -164,7 +164,7 @@ def main():
     # os.environ["WANDB_IGNORE_GLOBS"] = "output.log"
 
     # Set WANDB API key inside the code nc42
-    os.environ["WANDB_API_KEY"] = "9717537e9dfaa400282359738f3a41afdf2d3070"
+    os.environ["WANDB_API_KEY"] = ""
 
     short_model_name = args.model_name_or_path.split('/')[-1]
     if args.evaluation:
@@ -182,7 +182,7 @@ def main():
 
 
     # Load model
-    hf_token = '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' #nc42
+    hf_token = '' #nc42
     model_name = args.model_name_or_path
     model = AutoModelForCausalLM.from_pretrained(model_name,
                                                 #load_in_8bit=True, #nc42
@@ -206,8 +206,8 @@ def main():
     data_files["train"] = data_path + '/train_4000_600_chars_251-350_pt.json'
     data_files["validation"] = data_path + '/valid_4000_600_chars.json'
     data_files["test"] = data_path + '/valid_4000_600_chars.json'
-    # For testing
-    # data_files["test"] = data_path + '/test_4000_600_chars_last_100.json'
+    #For testing
+    data_files["test"] = data_path + '/test_4000_600_chars_last_100.json'
 
     # Model trained on full texts and summaries
     # data_files["train"] = data_path + '/train.json'
@@ -277,8 +277,6 @@ def main():
     print()
     print("Prompted valid example:")
     print(generate_prompt(data_val[0]["text"], data_val[0]["summary"]))
-
-    
 
 
     # Prediction method
@@ -407,67 +405,8 @@ def main():
     # print("Validation metrics:")
     # print(metrics_val)
     
-    
-    
-    '''
-    #nc42 start
-    print("Starting prediction debugging test...")
-    import time
-    import sys
-
-    # Test a single prediction with timing
-    test_example = data_test[0]
-    input_prompt = generate_prompt(test_example["text"])
-    input_tokens = tokenizer(input_prompt, return_tensors="pt")["input_ids"].to(device)
-
-    print(f"Input length: {input_tokens.shape[1]} tokens")
-    print(f"GPU memory before generation: {torch.cuda.memory_allocated()/1024**3:.2f}GB / {torch.cuda.memory_reserved()/1024**3:.2f}GB")
-
-    start_time = time.time()
-    print("Starting generation for one example...", flush=True)
-
-    with torch.cuda.amp.autocast():
-        generation_output = trained_model.generate(
-            input_ids=input_tokens,
-            max_new_tokens=350,
-            eos_token_id=tokenizer.eos_token_id,
-        )
-
-    single_pred_time = time.time() - start_time
-    print(f"Generation complete in {single_pred_time:.2f} seconds")
-    print(f"GPU memory after generation: {torch.cuda.memory_allocated()/1024**3:.2f}GB / {torch.cuda.memory_reserved()/1024**3:.2f}GB")
-
-    prediction = tokenizer.decode(generation_output[0], skip_special_tokens=True)
-    prediction = prediction[len(input_prompt):].strip()
-
-    print("\nSample prediction:")
-    print(f"Gold summary: {test_example['summary']}")
-    print(f"Model prediction: {prediction}")
-
-    print(f"\nEstimated time for {len(data_test)} examples: {single_pred_time * len(data_test) / 60:.2f} minutes")
-
-    # Ask if user wants to continue with full prediction
-    print("\nThe full prediction will take significant time. Do you want to continue? (y/n)")
-    '''
-    response = input()
-    if response.lower() != 'y':
-        print("Exiting without full prediction.")
-        # Add code here to save what you have so far
-        exit(0)
-    '''
-    print("Continuing with full prediction...")
-
-    #nc42 end
-    '''
-
     print("\nPredicting test examples.")
-
-    #try predicting small batch #nc42
-    #data_test = data_test[:4]
-    predictions_test = predict(trained_model, data_test) #nc42
-
-    print("prediction for 4 examples done...")
-
+    predictions_test = predict(trained_model, data_test)
     metrics_test = compute_custom_metrics(data_test["text"], data_test["summary"], predictions_test, device)
     # Print test examples text and summary fields
     print("Test examples:")

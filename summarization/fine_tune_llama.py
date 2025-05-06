@@ -164,7 +164,7 @@ def main():
     # os.environ["WANDB_IGNORE_GLOBS"] = "output.log"
 
     # Set WANDB API key inside the code nc42
-    os.environ["WANDB_API_KEY"] = "9717537e9dfaa400282359738f3a41afdf2d3070"
+    os.environ["WANDB_API_KEY"] = ""
 
     short_model_name = args.model_name_or_path.split('/')[-1]
     if args.evaluation:
@@ -182,7 +182,7 @@ def main():
 
 
     # Load model
-    hf_token = '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' #nc42
+    hf_token = '' #nc42
     model_name = args.model_name_or_path
     model = AutoModelForCausalLM.from_pretrained(model_name,
                                                 #load_in_8bit=True, #nc42

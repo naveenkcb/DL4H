@@ -30,10 +30,10 @@ ml GCCcore/11.3.0
 # ml CUDA/11.7.0
 
 # Load conda
-source /home/s/s_hegs02/.bashrc-slurm
+#source /home/s/s_hegs02/.bashrc-slurm
  
 # Load environment
-conda activate ps_llm
+#conda activate ps_llm
 
 # Change path
 # cd /home/s/s_hegs02/patient_summaries_with_llms
@@ -46,17 +46,22 @@ device="cuda"
 echo "Device: $device"
 
 # General
-model="allenai/led-large-16384"
+#model="allenai/led-large-16384"
+model="allenai/led-base-16384"
 # Cluster
-project="/home/s/s_hegs02/scratch/mimic-iv-note-di-bhc"
+#project="/home/s/s_hegs02/scratch/mimic-iv-note-di-bhc"
+project="/content/drive/MyDrive/DL4H-Project/mimic-iv-note-di-bhc"
 # Local
 # project="/home/s_hegs02/mimic-iv-note-di-bhc"
 data_path="${project}/dataset"
 output_path=$1
 
 # Experiment
-max_steps="200000"
-save_and_logging_steps="20000"
+#max_steps="200000"
+#save_and_logging_steps="20000"
+max_steps="200"
+save_and_logging_steps="200"
+strategy="steps"
 
 # General
 batch_size="1"
@@ -66,24 +71,26 @@ batch_size="1"
 # dropout="0.1"
 # learning_rate="5e-5"
 dropout=$2
-learning_rate=$3
+#learning_rate=$3
 
-python summarization/run_summarization_large_long.py \
+	#--do_train --do_eval --do_predict \
+	#--output_dir ${output_path} \
+	#--max_steps ${max_steps} \
+	#--evaluation_strategy ${strategy} \
+	#--save_strategy ${strategy} \
+	#--eval_steps ${save_and_logging_steps} \
+	#--save_steps ${save_and_logging_steps} \
+	#--load_best_model_at_end \
+	#--per_device_train_batch_size=${batch_size} \
+	#--per_device_eval_batch_size=${batch_size} \
+	#	--predict_with_generate \
+		#--learning_rate ${learning_rate} \
+#python summarization/run_summarization_large_long.py \
+python summarization/sm_run_summarization.py \
 	--model_name_or_path ${model} \
-	--do_train --do_eval --do_predict \
-	--train_file ${data_path}/train.json \
-	--validation_file ${data_path}/valid_last_100.json \
-	--test_file ${data_path}/valid_last_100.json \
-	--output_dir ${output_path} \
-	--max_steps ${max_steps} \
-	--evaluation_strategy steps \
-	--eval_steps ${save_and_logging_steps} \
-	--save_steps ${save_and_logging_steps} \
-	--load_best_model_at_end \
-	--per_device_train_batch_size=${batch_size} \
-	--per_device_eval_batch_size=${batch_size} \
+	--train_file ${data_path}/train_small.json \
+	--validation_file ${data_path}/valid_small.json \
+	--test_file ${data_path}/valid_small.json \
 	--dropout ${dropout} \
-	--learning_rate ${learning_rate} \
-	--predict_with_generate \
 	--max_source_length 4096 \
 	--max_target_length 350
