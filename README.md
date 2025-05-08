@@ -1,10 +1,6 @@
 # DL4H
-Patient Summaries Hallucination
+Final Project
+Reproduction of the paper "A Data-Centric Approach To Generate Faithful and High Quality Patient Summaries with Large Language Models"
 
-Project performed as part of CS 598 Deep Learning for Healthcare
+This project was performed was part of CS 598 Deep Learning for Healthcare. We are part of Spring 2025 Cohorts. This is an effort to reproduce subset of the tasks performed by the authors of the original paper. The original github repo can be found here https://github.com/stefanhgm/patient_summaries_with_llms
 
-This is an effort to reproduce pieces of the original paper
-
-https://github.com/stefanhgm/patient_summaries_with_llms?tab=readme-ov-file#a-data-centric-approach-to-generate-faithful-and-high-quality-patient-summaries-with-large-language-models
-
-The original paper repo is present @ https://github.com/stefanhgm/patient_summaries_with_llms
