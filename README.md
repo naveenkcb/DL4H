@@ -4,3 +4,5 @@ Reproduction of the paper "A Data-Centric Approach To Generate Faithful and High
 
 This project was performed was part of CS 598 Deep Learning for Healthcare. We are part of Spring 2025 Cohorts. This is an effort to reproduce subset of the tasks performed by the authors of the original paper. The original github repo can be found here https://github.com/stefanhgm/patient_summaries_with_llms
 
+
+##Overview
