@@ -7,5 +7,7 @@ This project was performed was part of CS 598 Deep Learning for Healthcare. We a
 
 ##Overview
 
-[script][scripts/]
-[summarization][https://github.com/naveenkcb/DL4H/tree/main/summarization]
+The below repository contains the necessary code that was used to reproduce the original paper in our local enviornment and prove the orginal methodology can be reproduced to a greater extent
+
+[scripts] - Scripts for parameter tuning of Llama2 7B model
+[summarization] - All code related to the summarization experiments with LED and Llama 2 models
